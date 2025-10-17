@@ -1,0 +1,178 @@
+{
+  "generated_at": "2025-10-17T05:07:47.871256",
+  "collection_period": "2025-10-16 10:00 MSK to 2025-10-17 10:00 MSK",
+  "total_outlets": 6,
+  "outlets": [
+    "RT Russian",
+    "TASS",
+    "RIA Novosti",
+    "Rossiyskaya Gazeta",
+    "Komsomolskaya Pravda",
+    "Lenta.ru"
+  ],
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Putin and Trump Agree to Meet in Budapest",
+      "title_ru": "Путин и Трамп договорились о встрече в Будапеште",
+      "viral_score": 85,
+      "outlets": [
+        "RT",
+        "RIA",
+        "TASS",
+        "RG",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 6,
+      "topic": "diplomacy",
+      "vk_engagement": "high",
+      "prominence": "top",
+      "summary": "Russian President Vladimir Putin and former U.S. President Donald Trump held a phone conversation and agreed to hold a summit meeting in Budapest, Hungary. The discussion reportedly covered the Ukraine conflict, including the potential transfer of Tomahawk missiles to Kyiv, and bilateral trade relations. The choice of Budapest, led by Russia-friendly Prime Minister Viktor Orbán, signals Hungary's role as a potential mediator. This development comes just hours before Ukrainian President Zelensky's visit to the United States, adding diplomatic tension to the timing.",
+      "summary_ru": "Президент России Владимир Путин и бывший президент США Дональд Трамп провели телефонный разговор и договорились о проведении саммита в Будапеште, Венгрия. В ходе беседы обсуждались украинский конфликт, включая возможную передачу ракет Tomahawk Киеву, а также двусторонние торговые отношения. Выбор Будапешта под руководством пророссийского премьер-министра Виктора Орбана сигнализирует о роли Венгрии как потенциального посредника.",
+      "why_trending": "This story achieved universal coverage across all six monitored outlets due to its exceptional diplomatic significance. A Putin-Trump summit represents a potential major shift in international relations regarding the Ukraine conflict. The story's prominence reflects Russian media's emphasis on diplomatic channels that could lead to favorable outcomes for Moscow's position.",
+      "why_trending_ru": "Эта история получила универсальное освещение во всех шести отслеживаемых изданиях из-за её исключительной дипломатической значимости. Саммит Путина и Трампа представляет собой потенциальный крупный сдвиг в международных отношениях относительно украинского конфликта.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://tass.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "diplomacy",
+        "Putin",
+        "Trump",
+        "Budapest",
+        "summit"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Putin Congratulates RT on 20th Anniversary",
+      "title_ru": "Путин поздравил RT с 20-летием",
+      "viral_score": 73,
+      "outlets": [
+        "RT",
+        "RIA",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "media",
+      "vk_engagement": "very_high",
+      "prominence": "featured",
+      "summary": "President Vladimir Putin personally congratulated the state-funded international media network RT on its 20th anniversary, praising the outlet's 'professionalism' and its role in providing an alternative perspective on global events. Putin's message emphasized RT's importance in countering Western media narratives and presenting Russia's viewpoint to international audiences. The anniversary celebration included congratulations from Foreign Minister Sergey Lavrov and cosmonauts aboard the International Space Station, highlighting the network's significance to Russian soft power.",
+      "summary_ru": "Президент Владимир Путин лично поздравил государственный международный медиахолдинг RT с 20-летием, отметив 'профессионализм' издания и его роль в предоставлении альтернативного взгляда на мировые события. В послании Путина подчеркивается важность RT в противодействии западным медианарративам и представлении российской точки зрения международной аудитории.",
+      "why_trending": "This story's high viral score is driven by exceptional VK engagement (7,915 video views) and featured placement across multiple outlets. RT's anniversary serves as a celebration of Russian media influence and soft power projection. The direct involvement of President Putin elevates the story's importance, while the self-promotional nature ensures heavy coverage within the Russian media ecosystem.",
+      "why_trending_ru": "Высокий вирусный рейтинг этой истории обусловлен исключительной активностью в VK (7 915 просмотров видео) и размещением на нескольких площадках. Юбилей RT служит празднованием влияния российских СМИ и проекции мягкой силы.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "media",
+        "RT",
+        "Putin",
+        "anniversary",
+        "soft power"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Electrical Substations Damaged in Crimea After Drone Attack",
+      "title_ru": "В Крыму повредили электроподстанции после атаки БПЛА",
+      "viral_score": 73,
+      "outlets": [
+        "RT",
+        "TASS",
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 4,
+      "topic": "incidents",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "Ukrainian drones attacked electrical infrastructure in Crimea overnight, damaging several substations and causing power disruptions across the peninsula. Russian authorities reported that air defense systems intercepted most of the drones, but some reached their targets. Emergency crews worked to restore electricity, with officials stating that power would be fully restored within three hours. The incident is framed as another example of Ukrainian 'terrorism' targeting civilian infrastructure in Russian-controlled territory.",
+      "summary_ru": "Украинские дроны атаковали электрическую инфраструктуру в Крыму ночью, повредив несколько подстанций и вызвав перебои с электроснабжением на полуострове. Российские власти сообщили, что системы ПВО перехватили большинство дронов, но некоторые достигли целей. Аварийные бригады работали над восстановлением электричества.",
+      "why_trending": "Incidents in Crimea consistently generate high interest in Russian media due to the peninsula's symbolic importance and contested status. The story's coverage across four major outlets reflects its significance in the ongoing conflict narrative. The framing of attacks on infrastructure as 'terrorism' resonates with domestic audiences and reinforces official justifications for the military operation.",
+      "why_trending_ru": "Инциденты в Крыму постоянно вызывают большой интерес в российских СМИ из-за символической важности полуострова и его спорного статуса. Освещение истории в четырех крупных изданиях отражает её значимость в нарративе продолжающегося конфликта.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "Crimea",
+        "drones",
+        "infrastructure",
+        "incidents"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Trump Refuses to Transfer Tomahawk Missiles to Ukraine",
+      "title_ru": "Трамп отказался передавать Украине ракеты Tomahawk",
+      "viral_score": 71,
+      "outlets": [
+        "RT",
+        "RIA",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "military_aid",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Former U.S. President Donald Trump stated his opposition to transferring long-range Tomahawk cruise missiles to Ukraine, marking a clear divergence from the current Biden administration's approach. Trump's position, reportedly discussed during his phone call with Putin, suggests a potential shift in U.S. military support policy if he returns to power. Russian media presents this as evidence of growing Western skepticism about continued military aid to Kyiv and potential for de-escalation under different U.S. leadership.",
+      "summary_ru": "Бывший президент США Дональд Трамп заявил о своей оппозиции передаче крылатых ракет большой дальности Tomahawk Украине, что явно расходится с подходом нынешней администрации Байдена. Позиция Трампа, как сообщается, обсуждалась во время его телефонного разговора с Путиным.",
+      "why_trending": "Western military aid to Ukraine is a constant focus of Russian media coverage. Trump's reported stance is presented as a significant talking point, used to highlight divisions within Western leadership and suggest that a more favorable international environment for Russia is possible. The story's high social media engagement reflects public interest in potential shifts in U.S. policy.",
+      "why_trending_ru": "Западная военная помощь Украине является постоянным фокусом освещения российских СМИ. Заявленная позиция Трампа представлена как значительная тема для обсуждения, используемая для подчеркивания разногласий внутри западного руководства.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "Trump",
+        "Tomahawk",
+        "military aid",
+        "Ukraine"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Russian Armed Forces Launch Massive Kinzhal Missile Strike on Ukraine",
+      "title_ru": "ВС РФ нанесли массированный удар «Кинжалами» по Украине",
+      "viral_score": 70,
+      "outlets": [
+        "RT",
+        "RIA",
+        "TASS",
+        "RG"
+      ],
+      "outlet_count": 4,
+      "topic": "military",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "The Russian Ministry of Defense announced a large-scale missile strike on Ukrainian targets using hypersonic Kinzhal missiles. The strikes reportedly targeted military infrastructure, command centers, and weapons storage facilities across Ukraine. Russian military sources emphasized the precision and effectiveness of the Kinzhal system, which is described as capable of evading all existing air defense systems. The operation is framed as retaliation for Ukrainian attacks on Russian territory and civilian infrastructure.",
+      "summary_ru": "Министерство обороны России объявило о крупномасштабном ракетном ударе по украинским целям с использованием гиперзвуковых ракет «Кинжал». Удары, как сообщается, были нанесены по военной инфраструктуре, командным центрам и складам оружия по всей Украине.",
+      "why_trending": "Stories featuring Russia's advanced military technology, particularly the Kinzhal hypersonic missile system, consistently generate high interest. The coverage across four major outlets reflects the importance of demonstrating military capability and technological superiority. These reports serve to boost domestic morale and project an image of strength to both domestic and international audiences.",
+      "why_trending_ru": "Истории о передовых российских военных технологиях, особенно о гиперзвуковой ракетной системе «Кинжал», постоянно вызывают большой интерес. Освещение в четырех крупных изданиях отражает важность демонстрации военного потенциала и технологического превосходства.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://tass.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "military",
+        "Kinzhal",
+        "missiles",
+        "strikes"
+      ]
+    }
+  ]
+}

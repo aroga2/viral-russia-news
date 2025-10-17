@@ -1,0 +1,244 @@
+{
+  "generated_at": "2025-10-17T03:14:10.398238",
+  "collection_period": "2025-10-16 10:00 MSK to 2025-10-17 10:00 MSK",
+  "total_outlets": 6,
+  "outlets": [
+    "RT Russian",
+    "TASS",
+    "RIA Novosti",
+    "Rossiyskaya Gazeta",
+    "Komsomolskaya Pravda",
+    "Lenta.ru"
+  ],
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Putin and Trump Agree to Meet in Budapest",
+      "title_ru": "Путин и Трамп договорились о встрече в Будапеште",
+      "viral_score": 85,
+      "outlets": [
+        "RT",
+        "RIA",
+        "TASS",
+        "RG",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 6,
+      "topic": "diplomacy",
+      "vk_engagement": "high",
+      "prominence": "top"
+    },
+    {
+      "rank": 2,
+      "title": "Putin Congratulates RT on 20th Anniversary",
+      "title_ru": "Путин поздравил RT с 20-летием",
+      "viral_score": 73,
+      "outlets": [
+        "RT",
+        "RIA",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "media",
+      "vk_engagement": "very_high",
+      "prominence": "featured"
+    },
+    {
+      "rank": 3,
+      "title": "Electrical Substations Damaged in Crimea After Drone Attack",
+      "title_ru": "В Крыму повредили электроподстанции после атаки БПЛА",
+      "viral_score": 73,
+      "outlets": [
+        "RT",
+        "TASS",
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 4,
+      "topic": "incidents",
+      "vk_engagement": "medium",
+      "prominence": "featured"
+    },
+    {
+      "rank": 4,
+      "title": "Trump Refuses to Transfer Tomahawk Missiles to Ukraine",
+      "title_ru": "Трамп отказался передавать Украине ракеты Tomahawk",
+      "viral_score": 71,
+      "outlets": [
+        "RT",
+        "RIA",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "military_aid",
+      "vk_engagement": "high",
+      "prominence": "featured"
+    },
+    {
+      "rank": 5,
+      "title": "Russian Armed Forces Launch Massive Kinzhal Missile Strike on Ukraine",
+      "title_ru": "ВС РФ нанесли массированный удар «Кинжалами» по Украине",
+      "viral_score": 70,
+      "outlets": [
+        "RT",
+        "RIA",
+        "TASS",
+        "RG"
+      ],
+      "outlet_count": 4,
+      "topic": "military",
+      "vk_engagement": "medium",
+      "prominence": "featured"
+    },
+    {
+      "rank": 6,
+      "title": "War Correspondent Ivan Zuev Killed in Zaporozhye Region",
+      "title_ru": "Военкор Иван Зуев погиб в Запорожской области",
+      "viral_score": 68,
+      "outlets": [
+        "RIA",
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "casualties",
+      "vk_engagement": "high",
+      "prominence": "featured"
+    },
+    {
+      "rank": 7,
+      "title": "Naryshkin Warns of Consequences of Transferring Tomahawks to Ukraine",
+      "title_ru": "Нарышкин предупредил о последствиях передачи Tomahawk Украине",
+      "viral_score": 67,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "military_aid",
+      "vk_engagement": "medium",
+      "prominence": "main"
+    },
+    {
+      "rank": 8,
+      "title": "European Commission Wants to Transfer Another €25 Billion to Kyiv from Russian Assets",
+      "title_ru": "Еврокомиссия хочет передать Киеву еще €25 млрд из российских активов",
+      "viral_score": 63,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "RG"
+      ],
+      "outlet_count": 3,
+      "topic": "economy",
+      "vk_engagement": "medium",
+      "prominence": "featured"
+    },
+    {
+      "rank": 9,
+      "title": "Naryshkin Says West Attempts to Destabilize CIS",
+      "title_ru": "Нарышкин заявил о попытках Запада дестабилизировать СНГ",
+      "viral_score": 62,
+      "outlets": [
+        "RT",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "geopolitics",
+      "vk_engagement": "low",
+      "prominence": "main"
+    },
+    {
+      "rank": 10,
+      "title": "61 Ukrainian Drones Shot Down Over Russia Overnight",
+      "title_ru": "Над Россией за ночь сбили 61 украинский БПЛА",
+      "viral_score": 60,
+      "outlets": [
+        "TASS",
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "military",
+      "vk_engagement": "medium",
+      "prominence": "featured"
+    },
+    {
+      "rank": 11,
+      "title": "Orban Expects to Speak with Putin on October 17",
+      "title_ru": "Орбан рассчитывает созвониться с Путиным 17 октября",
+      "viral_score": 60,
+      "outlets": [
+        "TASS",
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 3,
+      "topic": "diplomacy",
+      "vk_engagement": "medium",
+      "prominence": "featured"
+    },
+    {
+      "rank": 12,
+      "title": "Conscript Shoots Fellow Soldiers at Russian Military Base",
+      "title_ru": "Солдат-срочник расстрелял сослуживцев в российской воинской части",
+      "viral_score": 60,
+      "outlets": [
+        "Lenta"
+      ],
+      "outlet_count": 1,
+      "topic": "incidents",
+      "vk_engagement": "high",
+      "prominence": "breaking"
+    },
+    {
+      "rank": 13,
+      "title": "15 Aidar Battalion Fighters Sentenced to Up to 21 Years",
+      "title_ru": "15 бойцов батальона «Айдар» приговорили к срокам до 21 года",
+      "viral_score": 54,
+      "outlets": [
+        "TASS",
+        "Lenta"
+      ],
+      "outlet_count": 2,
+      "topic": "justice",
+      "vk_engagement": "medium",
+      "prominence": "top"
+    },
+    {
+      "rank": 14,
+      "title": "Fedoseeva-Shukshina Undergoes Emergency Surgery",
+      "title_ru": "Федосеева-Шукшина перенесла экстренную операцию",
+      "viral_score": 50,
+      "outlets": [
+        "RT",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "celebrities",
+      "vk_engagement": "medium",
+      "prominence": "news_feed"
+    },
+    {
+      "rank": 15,
+      "title": "Underground Fighters Blow Up VSU Communications Tower in Chernihiv",
+      "title_ru": "Подпольщики взорвали вышку спецсвязи ВСУ в Чернигове",
+      "viral_score": 48,
+      "outlets": [
+        "RIA",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "military",
+      "vk_engagement": "low",
+      "prominence": "featured"
+    }
+  ]
+}
