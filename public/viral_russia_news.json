@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T06:09:41.608781",
+  "generated_at": "2025-10-17T06:19:03.792291",
   "collection_period": "2025-10-16 10:00 MSK to 2025-10-17 10:00 MSK",
   "total_outlets": 6,
   "outlets": [
@@ -172,6 +172,310 @@
         "Kinzhal",
         "missiles",
         "strikes"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "War Correspondent Ivan Zuev Killed in Zaporozhye Region",
+      "title_ru": "Военкор Иван Зуев погиб в Запорожской области",
+      "viral_score": 68,
+      "outlets": [
+        "RIA",
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "casualties",
+      "vk_engagement": "high",
+      "prominence": "featured",
+      "summary": "Russian war correspondent Ivan Zuev was killed while covering military operations in the Zaporozhye region. Zuev, who had been reporting from the front lines since early 2022, was struck by Ukrainian artillery fire while accompanying Russian forces. His death has been widely mourned in Russian media circles, with colleagues praising his dedication to documenting the conflict from the Russian perspective. The incident highlights the dangers faced by journalists covering the ongoing military operations.",
+      "summary_ru": "Российский военный корреспондент Иван Зуев погиб во время освещения военных операций в Запорожской области. Зуев, который освещал события с линии фронта с начала 2022 года, попал под украинский артиллерийский обстрел, сопровождая российские войска.",
+      "why_trending": "The death of a war correspondent resonates strongly in Russian media, serving as both a human interest story and a narrative about the dangers of the conflict. Coverage across three major outlets reflects the story's emotional impact and its use to illustrate Ukrainian aggression against journalists. High VK engagement indicates strong public interest in stories about casualties among Russian media personnel.",
+      "why_trending_ru": "Гибель военного корреспондента сильно резонирует в российских СМИ, служа как человеческой историей, так и нарративом об опасностях конфликта. Освещение в трех крупных изданиях отражает эмоциональное воздействие истории.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "casualties",
+        "war correspondent",
+        "Zaporozhye",
+        "journalism"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Naryshkin Warns of Consequences of Transferring Tomahawks to Ukraine",
+      "title_ru": "Нарышкин предупредил о последствиях передачи Tomahawk Украине",
+      "viral_score": 67,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "military_aid",
+      "vk_engagement": "medium",
+      "prominence": "main",
+      "summary": "Sergei Naryshkin, director of Russia's Foreign Intelligence Service (SVR), issued a stark warning about potential consequences if Western nations transfer Tomahawk cruise missiles to Ukraine. Naryshkin stated that such a move would represent a dangerous escalation and that Russia would be forced to respond with appropriate measures. The warning comes amid ongoing discussions in Western capitals about providing Ukraine with longer-range strike capabilities. Russian officials frame this as a red line that could fundamentally alter the nature of the conflict.",
+      "summary_ru": "Сергей Нарышкин, директор Службы внешней разведки России (СВР), выступил с резким предупреждением о потенциальных последствиях, если западные страны передадут Украине крылатые ракеты Tomahawk. Нарышкин заявил, что такой шаг станет опасной эскалацией.",
+      "why_trending": "Official warnings from senior Russian security officials consistently generate significant media coverage. The story's presence across four outlets reflects its importance in shaping public perception about Western military aid and potential escalation scenarios. The topic of Tomahawk missiles specifically has become a focal point in Russian media discourse about red lines and escalation risks.",
+      "why_trending_ru": "Официальные предупреждения от высокопоставленных российских чиновников безопасности постоянно получают значительное освещение в СМИ. Присутствие истории в четырех изданиях отражает её важность в формировании общественного восприятия.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "Naryshkin",
+        "Tomahawk",
+        "escalation",
+        "warnings"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "European Commission Wants to Transfer Another €25 Billion to Kyiv from Russian Assets",
+      "title_ru": "Еврокомиссия хочет передать Киеву еще €25 млрд из российских активов",
+      "viral_score": 63,
+      "outlets": [
+        "RIA",
+        "TASS",
+        "RG"
+      ],
+      "outlet_count": 3,
+      "topic": "economy",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "The European Commission has proposed transferring an additional €25 billion to Ukraine using frozen Russian assets as collateral. This follows previous transfers and represents a continued effort by Western nations to financially support Ukraine's war effort and reconstruction needs. Russian officials have condemned the move as theft and warned of legal and diplomatic consequences. The proposal is part of broader Western discussions about how to utilize approximately €300 billion in frozen Russian central bank reserves.",
+      "summary_ru": "Европейская комиссия предложила передать Украине дополнительные €25 миллиардов, используя замороженные российские активы в качестве обеспечения. Это следует за предыдущими трансферами и представляет собой продолжение усилий западных стран по финансовой поддержке военных усилий и потребностей восстановления Украины.",
+      "why_trending": "Stories about frozen Russian assets and their potential use to support Ukraine are a recurring theme in Russian media, presented as evidence of Western economic aggression. Coverage across three major outlets reflects the story's importance in narratives about economic warfare and international law violations. The specific €25 billion figure provides a concrete talking point for discussions about Western actions against Russian interests.",
+      "why_trending_ru": "Истории о замороженных российских активах и их потенциальном использовании для поддержки Украины являются повторяющейся темой в российских СМИ, представленной как доказательство западной экономической агрессии.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://tass.ru/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "economy",
+        "sanctions",
+        "frozen assets",
+        "EU"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Naryshkin Says West Attempts to Destabilize CIS",
+      "title_ru": "Нарышкин заявил о попытках Запада дестабилизировать СНГ",
+      "viral_score": 62,
+      "outlets": [
+        "RT",
+        "TASS",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 4,
+      "topic": "geopolitics",
+      "vk_engagement": "low",
+      "prominence": "main",
+      "summary": "SVR Director Sergei Naryshkin accused Western intelligence services of attempting to destabilize the Commonwealth of Independent States (CIS), Russia's sphere of influence in the former Soviet space. Naryshkin claimed that Western agencies are working to undermine Russian influence in Central Asia and the Caucasus through support for opposition movements and color revolutions. The statement reflects ongoing Russian concerns about maintaining influence in neighboring countries and countering Western expansion into regions Moscow considers its strategic backyard.",
+      "summary_ru": "Директор СВР Сергей Нарышкин обвинил западные спецслужбы в попытках дестабилизировать Содружество Независимых Государств (СНГ), сферу влияния России на постсоветском пространстве. Нарышкин заявил, что западные агентства работают над подрывом российского влияния в Центральной Азии и на Кавказе.",
+      "why_trending": "Narratives about Western attempts to undermine Russian influence in neighboring countries are a staple of Russian media coverage. The story's presence across four outlets reflects its alignment with broader themes about geopolitical competition and threats to Russian security interests. Despite lower VK engagement, the story's importance lies in reinforcing official narratives about external threats to Russia's sphere of influence.",
+      "why_trending_ru": "Нарративы о западных попытках подорвать российское влияние в соседних странах являются основой освещения российских СМИ. Присутствие истории в четырех изданиях отражает её соответствие более широким темам о геополитической конкуренции.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "geopolitics",
+        "CIS",
+        "Naryshkin",
+        "Western interference"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "61 Ukrainian Drones Shot Down Over Russia Overnight",
+      "title_ru": "Над Россией за ночь сбили 61 украинский БПЛА",
+      "viral_score": 60,
+      "outlets": [
+        "TASS",
+        "RG",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "military",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "Russian air defense systems intercepted and destroyed 61 Ukrainian drones during overnight attacks across multiple regions of Russia. The Ministry of Defense reported that the drones targeted infrastructure in border regions including Belgorod, Kursk, and Bryansk oblasts. Officials emphasized the effectiveness of Russian air defense capabilities in protecting civilian areas from Ukrainian strikes. The high number of intercepted drones is presented as evidence of both Ukrainian aggression and Russian defensive capabilities.",
+      "summary_ru": "Российские системы ПВО перехватили и уничтожили 61 украинский дрон во время ночных атак в нескольких регионах России. Министерство обороны сообщило, что дроны нацеливались на инфраструктуру в приграничных регионах, включая Белгородскую, Курскую и Брянскую области.",
+      "why_trending": "Daily reports of intercepted Ukrainian drones have become a regular feature of Russian media coverage, serving to demonstrate both the ongoing threat from Ukraine and the effectiveness of Russian air defenses. Coverage across three outlets reflects the story's importance in maintaining public awareness of the conflict's impact on Russian territory. The specific number (61) provides a concrete metric for discussing the scale of Ukrainian attacks.",
+      "why_trending_ru": "Ежедневные сообщения о перехваченных украинских дронах стали регулярной особенностью освещения российских СМИ, служа для демонстрации как продолжающейся угрозы со стороны Украины, так и эффективности российской ПВО.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://rg.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "military",
+        "air defense",
+        "drones",
+        "border regions"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Orban Expects to Speak with Putin on October 17",
+      "title_ru": "Орбан рассчитывает созвониться с Путиным 17 октября",
+      "viral_score": 60,
+      "outlets": [
+        "TASS",
+        "RG",
+        "KP"
+      ],
+      "outlet_count": 3,
+      "topic": "diplomacy",
+      "vk_engagement": "medium",
+      "prominence": "featured",
+      "summary": "Hungarian Prime Minister Viktor Orbán announced his intention to hold a phone conversation with Russian President Vladimir Putin on October 17. The call is expected to cover bilateral relations, energy cooperation, and the situation in Ukraine. Orbán, who has maintained relatively friendly relations with Moscow despite EU sanctions, continues to position Hungary as a potential mediator in the conflict. The timing coincides with discussions about the Putin-Trump summit in Budapest, suggesting Hungary's growing role in diplomatic efforts.",
+      "summary_ru": "Премьер-министр Венгрии Виктор Орбан объявил о намерении провести телефонный разговор с президентом России Владимиром Путиным 17 октября. Ожидается, что разговор будет охватывать двусторонние отношения, энергетическое сотрудничество и ситуацию в Украине.",
+      "why_trending": "Orbán's continued engagement with Putin is presented in Russian media as evidence of cracks in Western unity and the possibility of diplomatic solutions to the Ukraine conflict. Coverage across three outlets reflects the story's importance in narratives about European divisions and Russia's diplomatic options. The specific date (October 17) adds urgency and newsworthiness to the story.",
+      "why_trending_ru": "Продолжающееся взаимодействие Орбана с Путиным представлено в российских СМИ как доказательство трещин в западном единстве и возможности дипломатических решений украинского конфликта.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "diplomacy",
+        "Orban",
+        "Hungary",
+        "Putin"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Conscript Shoots Fellow Soldiers at Russian Military Base",
+      "title_ru": "Солдат-срочник расстрелял сослуживцев в российской воинской части",
+      "viral_score": 60,
+      "outlets": [
+        "Lenta"
+      ],
+      "outlet_count": 1,
+      "topic": "incidents",
+      "vk_engagement": "high",
+      "prominence": "breaking",
+      "summary": "A conscript soldier opened fire on fellow servicemen at a Russian military base, resulting in multiple casualties. The incident occurred during routine training exercises, with the shooter reportedly experiencing psychological distress. Military authorities have launched an investigation into the circumstances surrounding the shooting, including questions about psychological screening procedures and access to weapons. The incident has raised concerns about mental health support for military personnel and safety protocols at military installations.",
+      "summary_ru": "Солдат-срочник открыл огонь по сослуживцам на российской военной базе, что привело к множественным жертвам. Инцидент произошел во время рутинных учебных упражнений, при этом стрелявший, как сообщается, испытывал психологический стресс.",
+      "why_trending": "Despite coverage in only one outlet, the story achieved a high viral score due to exceptional VK engagement, indicating strong public interest in the incident. Shootings at military bases are relatively rare and generate significant attention when they occur. The story's breaking news status and its implications for military discipline and mental health support contribute to its viral potential, even with limited outlet coverage.",
+      "why_trending_ru": "Несмотря на освещение только в одном издании, история достигла высокого вирусного рейтинга из-за исключительной активности в VK, указывающей на сильный общественный интерес к инциденту. Стрельба на военных базах относительно редка.",
+      "source_urls": [
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "incidents",
+        "military",
+        "shooting",
+        "conscript"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "15 Aidar Battalion Fighters Sentenced to Up to 21 Years",
+      "title_ru": "15 бойцов батальона «Айдар» приговорили к срокам до 21 года",
+      "viral_score": 54,
+      "outlets": [
+        "TASS",
+        "Lenta"
+      ],
+      "outlet_count": 2,
+      "topic": "justice",
+      "vk_engagement": "medium",
+      "prominence": "top",
+      "summary": "A Russian court sentenced 15 members of Ukraine's Aidar Battalion to prison terms of up to 21 years on charges including terrorism, mercenary activities, and crimes against civilians. The Aidar Battalion, a volunteer unit formed in 2014, has been designated as a terrorist organization by Russian authorities. The trial, held in absentia for most defendants, was presented as evidence of Ukrainian war crimes and the Russian justice system's commitment to holding perpetrators accountable. The sentences are part of a broader pattern of Russian legal proceedings against Ukrainian military personnel.",
+      "summary_ru": "Российский суд приговорил 15 членов украинского батальона «Айдар» к тюремным срокам до 21 года по обвинениям в терроризме, наемничестве и преступлениях против гражданских лиц. Батальон «Айдар», добровольческое подразделение, сформированное в 2014 году, был признан террористической организацией российскими властями.",
+      "why_trending": "Stories about legal proceedings against Ukrainian military personnel serve multiple purposes in Russian media: demonstrating the functioning of the justice system, documenting alleged Ukrainian crimes, and reinforcing narratives about Ukrainian aggression. Coverage in two outlets reflects moderate interest in the story, with the specific details (15 fighters, 21-year sentences) providing concrete talking points for discussions about accountability and justice.",
+      "why_trending_ru": "Истории о судебных разбирательствах против украинских военнослужащих служат нескольким целям в российских СМИ: демонстрации функционирования системы правосудия, документирования предполагаемых украинских преступлений и укрепления нарративов об украинской агрессии.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "justice",
+        "Aidar Battalion",
+        "sentencing",
+        "war crimes"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Fedoseeva-Shukshina Undergoes Emergency Surgery",
+      "title_ru": "Федосеева-Шукшина перенесла экстренную операцию",
+      "viral_score": 50,
+      "outlets": [
+        "RT",
+        "KP",
+        "Lenta"
+      ],
+      "outlet_count": 3,
+      "topic": "celebrities",
+      "vk_engagement": "medium",
+      "prominence": "news_feed",
+      "summary": "Veteran Russian actress Lydia Fedoseeva-Shukshina underwent emergency surgery following a sudden health crisis. The 85-year-old actress, widow of famous Soviet actor and director Vasily Shukshin, was hospitalized in Moscow after experiencing severe complications. Medical sources reported that the surgery was successful and her condition is stable. Fedoseeva-Shukshina, known for her roles in Soviet-era films, remains a beloved figure in Russian culture, and news of her health generates significant public interest.",
+      "summary_ru": "Ветеран российской актрисы Лидия Федосеева-Шукшина перенесла экстренную операцию после внезапного кризиса со здоровьем. 85-летняя актриса, вдова знаменитого советского актера и режиссера Василия Шукшина, была госпитализирована в Москве после серьезных осложнений.",
+      "why_trending": "Celebrity health stories consistently generate interest in Russian media, particularly when involving beloved figures from the Soviet era. Coverage across three outlets reflects the actress's cultural significance and the public's emotional connection to Soviet-era entertainment figures. The story provides a lighter counterpoint to heavier political and military news, contributing to media diversity while maintaining reader engagement.",
+      "why_trending_ru": "Истории о здоровье знаменитостей постоянно вызывают интерес в российских СМИ, особенно когда речь идет о любимых фигурах советской эпохи. Освещение в трех изданиях отражает культурное значение актрисы.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "celebrities",
+        "health",
+        "Soviet cinema",
+        "Fedoseeva-Shukshina"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Underground Fighters Blow Up VSU Communications Tower in Chernihiv",
+      "title_ru": "Подпольщики взорвали вышку спецсвязи ВСУ в Чернигове",
+      "viral_score": 48,
+      "outlets": [
+        "RIA",
+        "KP"
+      ],
+      "outlet_count": 2,
+      "topic": "military",
+      "vk_engagement": "low",
+      "prominence": "featured",
+      "summary": "Pro-Russian underground fighters reportedly destroyed a Ukrainian Armed Forces (VSU) communications tower in the Chernihiv region of northern Ukraine. The sabotage operation targeted critical military communications infrastructure, disrupting Ukrainian command and control capabilities in the area. Russian media presents the incident as evidence of ongoing resistance activities in Ukrainian-controlled territory and the effectiveness of partisan operations against Ukrainian military assets. The story fits into broader narratives about internal opposition to the Ukrainian government.",
+      "summary_ru": "Пророссийские подпольщики, как сообщается, уничтожили вышку связи Вооруженных сил Украины (ВСУ) в Черниговской области на севере Украины. Диверсионная операция была направлена на критическую военную инфраструктуру связи, нарушив возможности украинского командования и управления в этом районе.",
+      "why_trending": "Stories about partisan activities in Ukrainian-controlled territory serve to support narratives about internal resistance to the Ukrainian government and the ongoing nature of the conflict beyond front-line combat. Coverage in two outlets reflects moderate interest in the story, with the specific details (communications tower, Chernihiv location) providing concrete evidence of alleged underground activities. Lower VK engagement suggests this type of story resonates more with specific audiences interested in resistance narratives.",
+      "why_trending_ru": "Истории о партизанской деятельности на контролируемой Украиной территории служат для поддержки нарративов о внутреннем сопротивлении украинскому правительству и продолжающемся характере конфликта за пределами линии фронта.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-17",
+      "tags": [
+        "military",
+        "sabotage",
+        "partisans",
+        "Chernihiv"
       ]
     }
   ]
