@@ -316,7 +316,9 @@
         async function loadData() {
             try {
                 const response = await fetch('viral_russia_news.json');
-                const data = await response.json();
+                const jsonData = await response.json();
+                const data = jsonData.metadata;
+                const stories = jsonData.stories;
                 
                 // Update meta info
                 const metaInfo = document.getElementById('metaInfo');
@@ -336,7 +338,7 @@
                     </div>
                     <div class="meta-item">
                         <div class="meta-label">Collection Period</div>
-                        <div class="meta-value">${data.collection_period}</div>
+                        <div class="meta-value">${data.collection_period.replace(/_/g, ' ')}</div>
                     </div>
                     <div class="meta-item">
                         <div class="meta-label">Total Outlets</div>
@@ -345,14 +347,14 @@
                     <div class="meta-item">
                         <div class="meta-label">Monitored Sources</div>
                         <div class="outlets-list">
-                            ${data.outlets.map(outlet => `<span class="outlet-badge">${outlet}</span>`).join('')}
+                            ${data.outlets.map(outlet => `<span class="outlet-badge">${outlet.name}</span>`).join('')}
                         </div>
                     </div>
                 `;
                 
                 // Render stories
                 const storiesContainer = document.getElementById('storiesContainer');
-                storiesContainer.innerHTML = data.top_stories.map(story => `
+                storiesContainer.innerHTML = stories.map(story => `
                     <div class="story-card">
                         <div class="story-header">
                             <div class="rank-badge">${story.rank}</div>
