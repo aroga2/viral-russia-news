@@ -1,533 +1,479 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T12:27:17.387996+03:00",
-    "collection_period": "past_24_hours",
-    "total_outlets": 6,
+    "generated_at": "2025-10-19T07:11:35.391107+00:00",
+    "collection_period": "2025-10-19",
+    "total_outlets": 5,
     "outlets": [
-      {
-        "name": "RT Russian",
-        "url": "https://russian.rt.com/",
-        "vk_page": "https://vk.com/rt_russian",
-        "vk_followers": 1578664
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.ru/",
-        "vk_page": null,
-        "vk_followers": null
-      },
-      {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/",
-        "vk_page": "https://vk.com/ria",
-        "vk_followers": 3347808
-      },
-      {
-        "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/",
-        "vk_page": null,
-        "vk_followers": null
-      },
-      {
-        "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/",
-        "vk_page": null,
-        "vk_followers": null
-      },
-      {
-        "name": "Lenta.ru",
-        "url": "https://lenta.ru/",
-        "vk_page": null,
-        "vk_followers": null
-      }
+      "RT Russian",
+      "TASS",
+      "RIA Novosti",
+      "Rossiyskaya Gazeta",
+      "Komsomolskaya Pravda"
     ]
   },
   "stories": [
     {
       "rank": 1,
-      "title": "Trump Abruptly Ends Tense Meeting with Zelensky After 2.5 Hours",
-      "title_ru": "Трамп резко завершил напряженную встречу с Зеленским спустя 2,5 часа",
-      "viral_score": 98,
+      "title": "Russian Air Defense Shot Down 45 Ukrainian Drones Overnight",
+      "title_ru": "ПВО России сбила 45 украинских БПЛА за ночь",
+      "viral_score": 97,
       "outlets": [
         "RT Russian",
         "TASS",
         "RIA Novosti",
         "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
+        "Komsomolskaya Pravda"
       ],
-      "outlet_count": 6,
-      "topic": "International Relations",
-      "vk_engagement": "very_high",
-      "prominence": "top_story",
-      "summary": "According to Axios, President Donald Trump abruptly ended his meeting with Ukrainian President Volodymyr Zelensky after just 2.5 hours, with sources describing the discussion as tense and uncomfortable. The meeting, which took place at the White House, was reportedly marked by difficult exchanges as Trump pressed Zelensky on Ukraine's war strategy and future plans. Multiple Russian media outlets characterized the encounter as a diplomatic setback for Kyiv, with some noting that Zelensky appeared visibly shaken afterward and was denied the opportunity to hold a press conference on White House grounds.",
-      "summary_ru": "По данным Axios, президент США Дональд Трамп резко завершил встречу с президентом Украины Владимиром Зеленским всего через 2,5 часа, при этом источники описывают дискуссию как напряженную и неудобную. Встреча в Белом доме, по сообщениям, была отмечена трудными обменами мнениями, поскольку Трамп настаивал на обсуждении военной стратегии Украины и будущих планов. Множественные российские СМИ охарактеризовали встречу как дипломатическую неудачу для Киева, некоторые отметили, что Зеленский выглядел явно потрясенным после встречи и ему отказали в возможности провести пресс-конференцию на территории Белого дома.",
-      "why_trending": "This story dominates Russian media coverage as it signals a potential shift in U.S.-Ukraine relations under Trump's administration. The tense nature of the meeting and Trump's abrupt ending of discussions suggests growing American frustration with Ukraine's position, which aligns with Russian narratives about declining Western support for Kyiv.",
-      "why_trending_ru": "Эта история доминирует в российских СМИ, поскольку сигнализирует о потенциальном сдвиге в американо-украинских отношениях при администрации Трампа. Напряженный характер встречи и резкое завершение обсуждений Трампом предполагают растущее американское разочарование позицией Украины, что соответствует российским нарративам об ослаблении западной поддержки Киева.",
+      "outlet_count": 5,
+      "topic": "Military/Defense",
+      "vk_engagement": "medium",
+      "prominence": "TOP_STORY",
+      "summary": "Russian air defense forces successfully intercepted and destroyed 45 Ukrainian unmanned aerial vehicles during overnight operations on October 19, 2025. The drones were shot down over multiple regions of Russia, demonstrating the effectiveness of the country's air defense systems. This incident represents one of the largest single-night drone interception operations reported by Russian authorities in recent weeks, highlighting the ongoing aerial threat from Ukrainian forces.",
+      "summary_ru": "Российские силы противовоздушной обороны успешно перехватили и уничтожили 45 украинских беспилотных летательных аппаратов в ходе ночных операций 19 октября 2025 года. БПЛА были сбиты над несколькими регионами России, что демонстрирует эффективность систем ПВО страны. Этот инцидент представляет собой одну из крупнейших операций по перехвату дронов за одну ночь, о которых сообщали российские власти в последние недели.",
+      "why_trending": "This story is trending due to its widespread coverage across all major Russian media outlets and its significance as a major air defense operation. The large number of drones intercepted demonstrates both the scale of Ukrainian aerial operations and Russia's defensive capabilities, making it highly newsworthy for domestic audiences.",
+      "why_trending_ru": "Эта история в тренде из-за широкого освещения во всех крупных российских СМИ и её значимости как крупной операции ПВО. Большое количество перехваченных дронов демонстрирует как масштаб украинских воздушных операций, так и оборонительные возможности России.",
       "source_urls": [
         "https://russian.rt.com/",
         "https://tass.ru/",
         "https://ria.ru/",
         "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Trump",
-        "Zelensky",
-        "Ukraine",
-        "US-Ukraine Relations",
-        "Diplomacy",
-        "White House"
+        "military",
+        "defense",
+        "drones",
+        "air-defense",
+        "ukraine-conflict"
       ]
     },
     {
       "rank": 2,
-      "title": "Explosion at Sterlitamak Factory Kills Three Workers",
-      "title_ru": "При взрыве на заводе в Стерлитамаке погибли три человека",
-      "viral_score": 89,
+      "title": "Trump Mocked Zelensky with Alaska Tunnel Question at White House Meeting",
+      "title_ru": "Трамп высмеял Зеленского вопросом про тоннель между Аляской и Россией",
+      "viral_score": 78,
       "outlets": [
+        "RT Russian",
         "TASS",
         "RIA Novosti",
         "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
+        "Komsomolskaya Pravda"
       ],
       "outlet_count": 5,
-      "topic": "Domestic Incidents",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "A powerful explosion occurred at the Avangard industrial plant in Sterlitamak, Bashkortostan, resulting in the deaths of three workers and injuries to several others. Authorities have launched an investigation into the incident, with preliminary reports suggesting a production-related accident rather than external attack. The regional government announced that families of the deceased will receive compensation of 3 million rubles each, and the local hospital has been placed on special alert to handle casualties. This marks the second major industrial accident in the region within the past month, raising concerns about workplace safety standards.",
-      "summary_ru": "Мощный взрыв произошел на промышленном предприятии «Авангард» в Стерлитамаке, Башкортостан, в результате чего погибли три рабочих и несколько человек получили ранения. Власти начали расследование инцидента, предварительные сообщения указывают на производственную аварию, а не на внешнюю атаку. Правительство региона объявило, что семьи погибших получат компенсацию по 3 миллиона рублей каждая, а местная больница переведена на особый режим работы для обработки пострадавших. Это второй крупный промышленный инцидент в регионе за последний месяц, что вызывает обеспокоенность стандартами безопасности на производстве.",
-      "why_trending": "The story is trending due to the tragic loss of life and growing concerns about industrial safety in Russian regions. The incident has sparked public discussion about workplace conditions and corporate responsibility, especially as authorities confirmed it was not related to Ukrainian attacks but rather internal safety failures.",
-      "why_trending_ru": "История становится вирусной из-за трагической гибели людей и растущей обеспокоенности промышленной безопасностью в российских регионах. Инцидент вызвал общественное обсуждение условий труда и корпоративной ответственности, особенно после того, как власти подтвердили, что это не было связано с украинскими атаками, а скорее с внутренними нарушениями безопасности.",
+      "topic": "International Politics",
+      "vk_engagement": "medium",
+      "prominence": "FEATURED",
+      "summary": "During a White House meeting, US President Donald Trump reportedly mocked Ukrainian President Volodymyr Zelensky by asking about a proposed tunnel between Russia and Alaska. The question was interpreted as Trump's way of highlighting the absurdity of certain geopolitical proposals and putting Zelensky in an uncomfortable position. The meeting, which was described as tense by sources, reflects the complex dynamics between the US administration and Ukraine regarding ongoing conflict resolution efforts.",
+      "summary_ru": "Во время встречи в Белом доме президент США Дональд Трамп, как сообщается, высмеял президента Украины Владимира Зеленского, спросив о предлагаемом тоннеле между Россией и Аляской. Вопрос был истолкован как способ Трампа подчеркнуть абсурдность определенных геополитических предложений и поставить Зеленского в неловкое положение. Встреча, которая была описана источниками как напряженная, отражает сложную динамику между администрацией США и Украиной.",
+      "why_trending": "The story is viral because it involves two major world leaders and reveals tensions in US-Ukraine relations. The unusual nature of Trump's question and the reported mockery of Zelensky has captured widespread media attention, especially given the ongoing conflict and Ukraine's dependence on US support.",
+      "why_trending_ru": "История вирусная, потому что она касается двух крупных мировых лидеров и раскрывает напряженность в отношениях США и Украины. Необычный характер вопроса Трампа и сообщаемое высмеивание Зеленского привлекли широкое внимание СМИ.",
       "source_urls": [
+        "https://russian.rt.com/",
         "https://tass.ru/",
         "https://ria.ru/",
         "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Sterlitamak",
-        "Industrial Accident",
-        "Bashkortostan",
-        "Workplace Safety",
-        "Explosion",
-        "Casualties"
+        "international-politics",
+        "trump",
+        "zelensky",
+        "us-ukraine-relations",
+        "diplomacy"
       ]
     },
     {
       "rank": 3,
-      "title": "Russian Air Defense Destroys 41 Ukrainian Drones Overnight",
-      "title_ru": "Силы ПВО России уничтожили 41 украинский дрон за ночь",
-      "viral_score": 85,
+      "title": "Over 40 People Poisoned by Store-Bought Food in Buryatia",
+      "title_ru": "Более 40 человек отравились готовыми блюдами из магазина в Бурятии",
+      "viral_score": 74,
       "outlets": [
-        "RT Russian",
         "TASS",
+        "RIA Novosti",
         "Rossiyskaya Gazeta",
-        "Lenta.ru"
+        "Komsomolskaya Pravda"
       ],
       "outlet_count": 4,
-      "topic": "Military Operations",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "Russian air defense systems successfully intercepted and destroyed 41 Ukrainian unmanned aerial vehicles during overnight operations on October 18, according to the Ministry of Defense. The drones were shot down over 12 regions of Russia and the Black Sea area, with no reported casualties or significant damage to civilian infrastructure. This represents one of the largest single-night interception operations in recent weeks, demonstrating the effectiveness of Russia's layered air defense network. Military analysts note that Ukrainian forces have been increasing drone attacks targeting Russian territory and critical infrastructure.",
-      "summary_ru": "Российские системы противовоздушной обороны успешно перехватили и уничтожили 41 украинский беспилотный летательный аппарат во время ночных операций 18 октября, согласно Министерству обороны. Дроны были сбиты над 12 регионами России и акваторией Черного моря, без сообщений о жертвах или значительном ущербе гражданской инфраструктуре. Это представляет одну из крупнейших операций по перехвату за одну ночь за последние недели, демонстрируя эффективность многоуровневой сети ПВО России. Военные аналитики отмечают, что украинские силы увеличивают атаки дронами на российскую территорию и критическую инфраструктуру.",
-      "why_trending": "The story highlights Russia's air defense capabilities and the ongoing drone warfare between Russia and Ukraine. The high number of intercepted drones in a single night demonstrates the scale of Ukrainian drone operations and Russia's defensive response, making it a significant military development that resonates with Russian audiences concerned about security.",
-      "why_trending_ru": "История подчеркивает возможности российской ПВО и продолжающуюся войну дронов между Россией и Украиной. Большое количество перехваченных дронов за одну ночь демонстрирует масштаб украинских операций с дронами и оборонительный ответ России, что делает это значительным военным событием, которое резонирует с российской аудиторией, обеспокоенной безопасностью.",
+      "topic": "Incident/Health",
+      "vk_engagement": "medium",
+      "prominence": "FEATURED",
+      "summary": "More than 40 people in Ulan-Ude, Buryatia, suffered from acute intestinal infection after consuming ready-made meals purchased from local stores. Authorities have launched a criminal investigation and identified numerous violations at the food production facility responsible for the contaminated products. The incident has raised concerns about food safety standards and quality control in retail food establishments across the region.",
+      "summary_ru": "Более 40 человек в Улан-Удэ, Бурятия, пострадали от острой кишечной инфекции после употребления готовых блюд, купленных в местных магазинах. Власти начали уголовное расследование и выявили многочисленные нарушения на предприятии по производству продуктов питания, ответственном за зараженную продукцию. Инцидент вызвал обеспокоенность по поводу стандартов безопасности пищевых продуктов.",
+      "why_trending": "This mass poisoning incident is trending due to the large number of victims and public health concerns. The story resonates with audiences because it affects everyday consumer safety and highlights potential systemic issues in food production and retail oversight.",
+      "why_trending_ru": "Этот инцидент массового отравления в тренде из-за большого количества пострадавших и проблем общественного здравоохранения. История резонирует с аудиторией, потому что она затрагивает повседневную безопасность потребителей.",
       "source_urls": [
-        "https://russian.rt.com/",
         "https://tass.ru/",
+        "https://ria.ru/",
         "https://rg.ru/",
-        "https://lenta.ru/"
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Air Defense",
-        "Drones",
-        "Military",
-        "Ukraine Conflict",
-        "Ministry of Defense",
-        "National Security"
+        "health",
+        "food-safety",
+        "incident",
+        "buryatia",
+        "investigation"
       ]
     },
     {
       "rank": 4,
-      "title": "Putin-Trump Budapest Summit Causes Consternation in EU",
-      "title_ru": "Саммит Путина и Трампа в Будапеште вызывает переполох в ЕС",
-      "viral_score": 83,
+      "title": "Proposal to Introduce 12-Year Schooling in Russia",
+      "title_ru": "В России предложили ввести 12-летнее обучение в школах",
+      "viral_score": 73,
       "outlets": [
         "RT Russian",
-        "RIA Novosti",
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
+        "TASS",
+        "Rossiyskaya Gazeta"
       ],
-      "outlet_count": 5,
-      "topic": "International Relations",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "The anticipated meeting between Russian President Vladimir Putin and U.S. President Donald Trump in Budapest is generating significant anxiety within the European Union, according to multiple Russian media reports. Kremlin spokesman Dmitry Peskov indicated the summit could take place within two weeks, with European officials expressing concern that any Russia-U.S. agreement could sideline EU interests regarding Ukraine and regional security. Russian analysts suggest the meeting could fundamentally reshape the European security architecture, with Hungary's willingness to host the summit despite EU pressure demonstrating fractures in European unity on Russia policy.",
-      "summary_ru": "Ожидаемая встреча между президентом России Владимиром Путиным и президентом США Дональдом Трампом в Будапеште вызывает значительное беспокойство в Европейском союзе, согласно множественным российским медиа-отчетам. Пресс-секретарь Кремля Дмитрий Песков указал, что саммит может состояться в течение двух недель, при этом европейские чиновники выражают обеспокоенность, что любое российско-американское соглашение может отодвинуть на второй план интересы ЕС в отношении Украины и региональной безопасности. Российские аналитики предполагают, что встреча может фундаментально изменить европейскую архитектуру безопасности, при этом готовность Венгрии принять саммит несмотря на давление ЕС демонстрирует трещины в европейском единстве по российской политике.",
-      "why_trending": "This story is trending because it represents a potential major diplomatic breakthrough that could reshape European security dynamics. The prospect of direct Putin-Trump negotiations without EU involvement aligns with Russian narratives about declining European influence and the restoration of great power diplomacy.",
-      "why_trending_ru": "Эта история становится вирусной, потому что представляет потенциальный крупный дипломатический прорыв, который может изменить динамику европейской безопасности. Перспектива прямых переговоров Путина и Трампа без участия ЕС соответствует российским нарративам об ослаблении европейского влияния и восстановлении дипломатии великих держав.",
+      "outlet_count": 3,
+      "topic": "Education/Society",
+      "vk_engagement": "medium",
+      "prominence": "TOP_STORY",
+      "summary": "Russian lawmakers have proposed extending the standard school education period from 11 to 12 years. The proposal aims to improve educational quality and better prepare students for higher education and professional careers. This initiative has sparked debate among educators, parents, and policymakers about the potential benefits and challenges of adding an extra year to the Russian education system.",
+      "summary_ru": "Российские законодатели предложили продлить стандартный период школьного образования с 11 до 12 лет. Предложение направлено на улучшение качества образования и лучшую подготовку учащихся к высшему образованию и профессиональной карьере. Эта инициатива вызвала дебаты среди педагогов, родителей и политиков о потенциальных преимуществах и проблемах добавления дополнительного года.",
+      "why_trending": "The proposal to extend schooling affects millions of Russian families and represents a major potential reform to the education system. The story is trending because education policy directly impacts parents, students, and society at large, generating widespread public interest and discussion.",
+      "why_trending_ru": "Предложение о продлении школьного обучения затрагивает миллионы российских семей и представляет собой крупную потенциальную реформу системы образования. История в тренде, потому что образовательная политика напрямую влияет на родителей, учащихся и общество в целом.",
       "source_urls": [
         "https://russian.rt.com/",
-        "https://ria.ru/",
-        "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
+        "https://tass.ru/",
+        "https://rg.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Putin",
-        "Trump",
-        "Budapest",
-        "EU",
-        "Diplomacy",
-        "Hungary",
-        "Summit"
+        "education",
+        "society",
+        "reform",
+        "schools",
+        "policy"
       ]
     },
     {
       "rank": 5,
-      "title": "RT Celebrates 20th Anniversary with Kremlin Gala",
-      "title_ru": "RT отмечает 20-летие торжественным вечером в Кремле",
-      "viral_score": 82,
+      "title": "Weapon Supplier to Crocus Attack Perpetrators Had Fake Passport",
+      "title_ru": "У поставщика оружия исполнителям теракта в «Крокусе» был поддельный паспорт",
+      "viral_score": 71,
       "outlets": [
-        "RT Russian",
-        "RIA Novosti",
+        "TASS",
         "Rossiyskaya Gazeta"
       ],
-      "outlet_count": 3,
-      "topic": "Media / Politics",
-      "vk_engagement": "very_high",
-      "prominence": "featured",
-      "summary": "Russian President Vladimir Putin attended a gala celebration at the Bolshoi Theatre marking the 20th anniversary of RT (formerly Russia Today), praising the international broadcaster for its role in countering Western media dominance and presenting alternative perspectives on global events. The event featured performances, speeches from RT leadership, and congratulatory messages from international figures including Venezuelan President Nicolás Maduro. Putin emphasized that Russia will always fight for its sovereignty and the right to present its viewpoint to the world, describing RT as a crucial tool in the information war against Western narratives.",
-      "summary_ru": "Президент России Владимир Путин присутствовал на торжественном вечере в Большом театре, посвященном 20-летию RT (ранее Russia Today), похвалив международного вещателя за его роль в противодействии западному медийному доминированию и представлении альтернативных перспектив на глобальные события. Мероприятие включало выступления, речи руководства RT и поздравительные послания от международных деятелей, включая президента Венесуэлы Николаса Мадуро. Путин подчеркнул, что Россия всегда будет бороться за свой суверенитет и право представлять свою точку зрения миру, описывая RT как важнейший инструмент в информационной войне против западных нарративов.",
-      "why_trending": "The RT anniversary celebration is trending due to its symbolic importance in Russia's information strategy and the high-level political attention it received. The event showcases Russia's commitment to its international media presence despite Western sanctions and restrictions, generating strong engagement on VK with over 1,200 likes and 20,000+ video views.",
-      "why_trending_ru": "Празднование юбилея RT становится вирусным из-за его символической важности в информационной стратегии России и высокого политического внимания, которое оно получило. Мероприятие демонстрирует приверженность России своему международному медийному присутствию несмотря на западные санкции и ограничения, генерируя сильное взаимодействие в ВК с более чем 1200 лайками и 20000+ просмотрами видео.",
+      "outlet_count": 2,
+      "topic": "Crime/Incident",
+      "vk_engagement": "low",
+      "prominence": "TOP_STORY",
+      "summary": "Investigators have revealed that the individual who supplied weapons to the perpetrators of the Crocus City Hall terrorist attack was using a fake passport. This discovery is a significant development in the ongoing investigation into the March 2024 attack that killed over 140 people. The fake identity raises questions about security gaps and the networks that enabled the attack.",
+      "summary_ru": "Следователи выяснили, что лицо, поставившее оружие исполнителям теракта в «Крокус Сити Холле», использовало поддельный паспорт. Это открытие является значительным событием в продолжающемся расследовании теракта в марте 2024 года, в результате которого погибло более 140 человек. Поддельная личность поднимает вопросы о пробелах в безопасности.",
+      "why_trending": "This story is trending because it provides new information about one of Russia's deadliest terrorist attacks in recent years. The revelation about the fake passport adds another layer to the investigation and maintains public interest in understanding how the attack was facilitated.",
+      "why_trending_ru": "Эта история в тренде, потому что она предоставляет новую информацию об одном из самых смертоносных терактов в России за последние годы. Раскрытие информации о поддельном паспорте добавляет еще один уровень к расследованию.",
       "source_urls": [
-        "https://russian.rt.com/",
-        "https://ria.ru/",
-        "https://rg.ru/",
-        "https://vk.com/rt_russian"
+        "https://tass.ru/",
+        "https://rg.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "RT",
-        "Media",
-        "Putin",
-        "Anniversary",
-        "Information War",
-        "Bolshoi Theatre"
+        "crime",
+        "terrorism",
+        "investigation",
+        "crocus-attack",
+        "security"
       ]
     },
     {
       "rank": 6,
-      "title": "FSB Declassifies Documents on Nazi Atrocities in Konstantinovka",
-      "title_ru": "ФСБ рассекретила документы о зверствах нацистов в Константиновке",
-      "viral_score": 78,
+      "title": "Nearly 7 Million Americans Participated in Protests Against Trump's Policies",
+      "title_ru": "Почти 7 миллионов американцев участвовали в протестах против политики Трампа",
+      "viral_score": 69,
       "outlets": [
-        "TASS",
+        "RT Russian",
         "RIA Novosti",
-        "Lenta.ru"
+        "Komsomolskaya Pravda"
       ],
       "outlet_count": 3,
-      "topic": "History / Society",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "Russia's Federal Security Service (FSB) has declassified historical documents detailing Nazi war crimes committed in the Ukrainian city of Konstantinovka during World War II. The documents include testimonies, investigative materials, and evidence of mass executions, torture, and deportations carried out by German occupation forces between 1941 and 1943. The release comes amid ongoing tensions with Ukraine and appears timed to draw historical parallels between Nazi actions and contemporary Ukrainian nationalism. The materials are being made available to researchers and the public as part of Russia's efforts to preserve historical memory of the Great Patriotic War.",
-      "summary_ru": "Федеральная служба безопасности (ФСБ) России рассекретила исторические документы, детализирующие военные преступления нацистов, совершенные в украинском городе Константиновка во время Второй мировой войны. Документы включают свидетельские показания, следственные материалы и доказательства массовых казней, пыток и депортаций, осуществленных немецкими оккупационными силами между 1941 и 1943 годами. Публикация происходит на фоне продолжающейся напряженности с Украиной и, по-видимому, приурочена к проведению исторических параллелей между действиями нацистов и современным украинским национализмом. Материалы становятся доступными для исследователей и общественности в рамках усилий России по сохранению исторической памяти о Великой Отечественной войне.",
-      "why_trending": "This story resonates with Russian audiences due to the strong cultural emphasis on World War II memory and the ongoing narrative linking Ukrainian nationalism to historical fascism. The FSB's declassification serves both historical and contemporary political purposes in the context of the special military operation.",
-      "why_trending_ru": "Эта история резонирует с российской аудиторией из-за сильного культурного акцента на памяти о Второй мировой войне и продолжающегося нарратива, связывающего украинский национализм с историческим фашизмом. Рассекречивание ФСБ служит как историческим, так и современным политическим целям в контексте специальной военной операции.",
+      "topic": "International",
+      "vk_engagement": "medium",
+      "prominence": "FEATURED",
+      "summary": "Nearly 7 million Americans participated in nationwide protests against President Trump's policies across all 50 states. The demonstrations, organized under the slogan 'No Kings,' represent one of the largest coordinated protest movements in recent US history. Protesters expressed opposition to various Trump administration policies, reflecting deep political divisions within American society.",
+      "summary_ru": "Почти 7 миллионов американцев приняли участие в общенациональных протестах против политики президента Трампа во всех 50 штатах. Демонстрации, организованные под лозунгом «Нет королям», представляют собой одно из крупнейших скоординированных протестных движений в новейшей истории США. Протестующие выразили несогласие с различными политиками администрации Трампа.",
+      "why_trending": "The massive scale of the protests (7 million participants) and their nationwide scope make this a major news story. It reflects significant domestic political tensions in the United States and is of particular interest to Russian media covering American internal affairs.",
+      "why_trending_ru": "Масштаб протестов (7 миллионов участников) и их общенациональный охват делают это крупной новостью. Это отражает значительную внутриполитическую напряженность в США и представляет особый интерес для российских СМИ.",
       "source_urls": [
-        "https://tass.ru/",
+        "https://russian.rt.com/",
         "https://ria.ru/",
-        "https://lenta.ru/"
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "FSB",
-        "World War II",
-        "Nazi Crimes",
-        "Konstantinovka",
-        "Historical Documents",
-        "Ukraine"
+        "international",
+        "usa",
+        "protests",
+        "trump",
+        "politics"
       ]
     },
     {
       "rank": 7,
-      "title": "Russian Forces Eliminate Foreign Drone Operators Near Zaporizhzhia",
-      "title_ru": "ВС России ликвидировали иностранных операторов дронов под Запорожьем",
-      "viral_score": 77,
+      "title": "Drone Attack Caused Fire at Gas Plant in Orenburg Region",
+      "title_ru": "Атака дрона ВСУ привела к пожару на газзаводе в Оренбургской области",
+      "viral_score": 66,
       "outlets": [
         "RIA Novosti",
+        "Rossiyskaya Gazeta",
         "Komsomolskaya Pravda"
       ],
-      "outlet_count": 2,
-      "topic": "Military Operations",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "Russian military forces conducted a precision strike that eliminated a group of foreign drone operators working with Ukrainian forces near Zaporizhzhia, according to the Ministry of Defense. The operation targeted a facility where foreign mercenaries and specialists were training Ukrainian personnel in advanced drone warfare techniques and coordinating unmanned aerial vehicle operations against Russian positions. Military sources indicate the group included operators from NATO countries providing technical expertise to Ukrainian forces. The strike demonstrates Russia's intelligence capabilities in identifying and targeting high-value foreign military personnel operating in Ukraine.",
-      "summary_ru": "Российские военные силы провели точечный удар, который ликвидировал группу иностранных операторов дронов, работающих с украинскими силами под Запорожьем, согласно Министерству обороны. Операция была нацелена на объект, где иностранные наемники и специалисты обучали украинский персонал передовым техникам ведения войны с дронами и координировали операции беспилотных летательных аппаратов против российских позиций. Военные источники указывают, что группа включала операторов из стран НАТО, предоставляющих техническую экспертизу украинским силам. Удар демонстрирует разведывательные возможности России в выявлении и поражении ценных иностранных военных специалистов, действующих в Украине.",
-      "why_trending": "The elimination of foreign operators is significant because it highlights the direct involvement of Western personnel in Ukraine and validates Russian claims about NATO's proxy war. VK comments show strong public support for targeting foreign mercenaries, making this a popular military success story.",
-      "why_trending_ru": "Ликвидация иностранных операторов значима, потому что подчеркивает прямое участие западного персонала в Украине и подтверждает российские заявления о прокси-войне НАТО. Комментарии в ВК показывают сильную общественную поддержку поражения иностранных наемников, делая это популярной историей военного успеха.",
+      "outlet_count": 3,
+      "topic": "Military/Infrastructure",
+      "vk_engagement": "medium",
+      "prominence": "FEATURED",
+      "summary": "A Ukrainian drone attack on a gas processing plant in the Orenburg region caused a fire that damaged infrastructure at the facility. The attack represents an escalation in Ukrainian strikes against Russian energy infrastructure deep inside Russian territory. Emergency services responded to contain the fire, and authorities are assessing the extent of the damage to the plant's operations.",
+      "summary_ru": "Атака украинского дрона на газоперерабатывающий завод в Оренбургской области вызвала пожар, который повредил инфраструктуру объекта. Атака представляет собой эскалацию украинских ударов по российской энергетической инфраструктуре глубоко внутри российской территории. Аварийные службы отреагировали, чтобы локализовать пожар.",
+      "why_trending": "The attack on critical energy infrastructure far from the border demonstrates Ukraine's expanding strike capabilities and raises concerns about the vulnerability of Russian industrial facilities. This makes it a high-priority news story for security and economic reasons.",
+      "why_trending_ru": "Атака на критически важную энергетическую инфраструктуру вдали от границы демонстрирует расширяющиеся ударные возможности Украины и вызывает обеспокоенность по поводу уязвимости российских промышленных объектов.",
       "source_urls": [
         "https://ria.ru/",
-        "https://www.kp.ru/",
-        "https://vk.com/ria"
+        "https://rg.ru/",
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Military Strike",
-        "Foreign Mercenaries",
-        "Drones",
-        "Zaporizhzhia",
-        "NATO",
-        "Special Operation"
+        "military",
+        "infrastructure",
+        "energy",
+        "drone-attack",
+        "orenburg"
       ]
     },
     {
       "rank": 8,
-      "title": "Gazprom Files Lawsuit Against Linde's Russian Subsidiary",
-      "title_ru": "Газпром подал иск к российскому филиалу группы Linde",
-      "viral_score": 76,
+      "title": "Russia May Introduce List of Medications Banned for Drivers",
+      "title_ru": "В России может появиться список запрещенных для водителей лекарств",
+      "viral_score": 61,
       "outlets": [
-        "TASS",
+        "RIA Novosti",
         "Rossiyskaya Gazeta"
       ],
       "outlet_count": 2,
-      "topic": "Economy",
-      "vk_engagement": "medium",
-      "prominence": "top_story",
-      "summary": "Russian energy giant Gazprom has filed a lawsuit against the Russian subsidiary of German industrial gases company Linde Group, according to court documents. While specific details of the legal dispute have not been fully disclosed, the case appears related to contractual obligations and equipment supplies for Gazprom's liquefied natural gas projects. The lawsuit comes amid broader tensions between Russian and Western companies following sanctions and the departure of many international firms from the Russian market. Legal experts suggest the case could set important precedents for how Russian courts handle disputes with subsidiaries of Western parent companies that have faced sanctions pressure.",
-      "summary_ru": "Российский энергетический гигант Газпром подал иск к российскому филиалу немецкой компании по производству промышленных газов Linde Group, согласно судебным документам. Хотя конкретные детали юридического спора не были полностью раскрыты, дело, по-видимому, связано с договорными обязательствами и поставками оборудования для проектов сжиженного природного газа Газпрома. Иск подан на фоне более широкой напряженности между российскими и западными компаниями после санкций и ухода многих международных фирм с российского рынка. Юридические эксперты предполагают, что дело может создать важные прецеденты для того, как российские суды рассматривают споры с дочерними компаниями западных материнских компаний, столкнувшихся с санкционным давлением.",
-      "why_trending": "The Gazprom-Linde lawsuit is trending as it represents the ongoing economic consequences of sanctions and the complex legal battles between Russian state companies and Western firms. It signals Russia's willingness to use its court system to enforce contracts and protect domestic interests.",
-      "why_trending_ru": "Иск Газпрома к Linde становится вирусным, поскольку представляет продолжающиеся экономические последствия санкций и сложные юридические битвы между российскими государственными компаниями и западными фирмами. Это сигнализирует о готовности России использовать свою судебную систему для обеспечения исполнения контрактов и защиты внутренних интересов.",
+      "topic": "Society/Law",
+      "vk_engagement": "low",
+      "prominence": "FEATURED",
+      "summary": "Russian authorities are considering introducing an official list of medications that would be prohibited for drivers to take while operating vehicles. The proposed measure aims to improve road safety by preventing drivers from operating vehicles while under the influence of certain prescription and over-the-counter drugs that may impair driving ability. The initiative has sparked discussion about balancing public safety with individual medical needs.",
+      "summary_ru": "Российские власти рассматривают возможность введения официального списка лекарств, которые будут запрещены для водителей при управлении транспортными средствами. Предлагаемая мера направлена на повышение безопасности дорожного движения путем предотвращения управления транспортными средствами под воздействием определенных лекарств, которые могут ухудшить способность к вождению.",
+      "why_trending": "This proposal affects millions of Russian drivers and raises important questions about the intersection of healthcare, personal freedom, and public safety. The story is trending because it has practical implications for everyday life and has generated debate about implementation.",
+      "why_trending_ru": "Это предложение затрагивает миллионы российских водителей и поднимает важные вопросы о пересечении здравоохранения, личной свободы и общественной безопасности. История в тренде, потому что она имеет практические последствия для повседневной жизни.",
       "source_urls": [
-        "https://tass.ru/",
+        "https://ria.ru/",
         "https://rg.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Gazprom",
-        "Linde",
-        "Lawsuit",
-        "Energy",
-        "Sanctions",
-        "Business"
+        "society",
+        "law",
+        "road-safety",
+        "healthcare",
+        "regulations"
       ]
     },
     {
       "rank": 9,
-      "title": "Two Killed in Ukrainian Drone Strike on Kherson Region",
-      "title_ru": "Два человека погибли при налете дронов ВСУ на Херсонскую область",
-      "viral_score": 74,
+      "title": "Rospatent Explained Refusal to Register SHAMAN's 'I Am Russian' Trademark",
+      "title_ru": "Роспатент объяснил отказ SHAMAN в регистрации товарного знака «Я русский»",
+      "viral_score": 60,
       "outlets": [
-        "TASS",
-        "Lenta.ru"
+        "RT Russian",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
       ],
-      "outlet_count": 2,
-      "topic": "Military Operations",
+      "outlet_count": 3,
+      "topic": "Culture/Society",
       "vk_engagement": "medium",
-      "prominence": "featured",
-      "summary": "Two civilians were killed in a Ukrainian drone attack on the Kherson region, according to regional governor Vladimir Saldo. The attack targeted residential areas in territories under Russian control, resulting in casualties and property damage. Local authorities have condemned the strike as a deliberate attack on civilian infrastructure, while Ukrainian forces have not commented on the specific incident. The Kherson region has seen frequent cross-border attacks and artillery exchanges since Russian forces withdrew from the western bank of the Dnieper River, with both sides accusing each other of targeting civilian populations.",
-      "summary_ru": "Два мирных жителя погибли при атаке украинских дронов на Херсонскую область, согласно губернатору региона Владимиру Сальдо. Атака была нацелена на жилые районы на территориях под российским контролем, что привело к жертвам и материальному ущербу. Местные власти осудили удар как преднамеренную атаку на гражданскую инфраструктуру, в то время как украинские силы не комментировали конкретный инцидент. Херсонская область стала свидетелем частых трансграничных атак и артиллерийских обменов с тех пор, как российские силы отошли с западного берега Днепра, при этом обе стороны обвиняют друг друга в нацеливании на гражданское население.",
-      "why_trending": "Civilian casualties from Ukrainian attacks resonate strongly with Russian audiences and support government narratives about Ukrainian forces targeting non-combatants. Such incidents typically generate significant media coverage and public sympathy.",
-      "why_trending_ru": "Гражданские жертвы от украинских атак сильно резонируют с российской аудиторией и поддерживают правительственные нарративы о том, что украинские силы нацелены на некомбатантов. Такие инциденты обычно генерируют значительное медийное освещение и общественное сочувствие.",
+      "prominence": "FEATURED",
+      "summary": "Rospatent, Russia's patent office, has explained its decision to refuse registration of the trademark 'I Am Russian' (Ya Russky) for singer SHAMAN (Yaroslav Dronov). The agency stated that the phrase is a common expression with well-known semantic meaning and therefore cannot be exclusively registered as a trademark. The decision has generated discussion about intellectual property rights and the boundaries of trademark protection for culturally significant phrases.",
+      "summary_ru": "Роспатент объяснил свое решение об отказе в регистрации товарного знака «Я русский» для певца SHAMAN (Ярослава Дронова). Ведомство заявило, что фраза является общеупотребимым выражением с общеизвестным семантическим значением и поэтому не может быть эксклюзивно зарегистрирована как товарный знак. Решение вызвало дискуссию о правах интеллектуальной собственности.",
+      "why_trending": "SHAMAN is a popular Russian artist, and the phrase 'I Am Russian' has cultural significance, making this trademark dispute newsworthy. The story combines elements of celebrity news, intellectual property law, and national identity, generating broad public interest.",
+      "why_trending_ru": "SHAMAN - популярный российский артист, а фраза «Я русский» имеет культурное значение, что делает этот спор о товарном знаке новостным. История сочетает элементы новостей о знаменитостях, права интеллектуальной собственности и национальной идентичности.",
       "source_urls": [
-        "https://tass.ru/",
-        "https://lenta.ru/"
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Kherson",
-        "Civilian Casualties",
-        "Drone Strike",
-        "Ukraine Conflict",
-        "War Crimes"
+        "culture",
+        "society",
+        "trademark",
+        "shaman",
+        "intellectual-property"
       ]
     },
     {
       "rank": 10,
-      "title": "Russia-Alaska Tunnel Project Discussions Begin",
-      "title_ru": "Начались обсуждения проекта тоннеля между Россией и Аляской",
-      "viral_score": 73,
+      "title": "Israel Received Remains of Two More Hostages Who Died in Gaza",
+      "title_ru": "Израиль получил останки еще двух погибших в Газе заложников",
+      "viral_score": 60,
       "outlets": [
-        "RIA Novosti",
-        "Rossiyskaya Gazeta"
+        "TASS"
       ],
-      "outlet_count": 2,
-      "topic": "Infrastructure / Economy",
-      "vk_engagement": "medium",
-      "prominence": "featured",
-      "summary": "Kirill Dmitriev, head of the Russian Direct Investment Fund (RDIF), revealed that preliminary discussions about constructing a tunnel connecting Russia and Alaska began approximately six months ago. The ambitious infrastructure project would span the Bering Strait, creating a direct land connection between Russia and North America for the first time. While the project faces enormous technical, financial, and political challenges, Dmitriev suggested that improving Russia-U.S. relations under Trump's administration could make such mega-projects feasible. The tunnel concept has been discussed periodically for decades but has never progressed beyond preliminary planning stages due to costs estimated in the hundreds of billions of dollars.",
-      "summary_ru": "Кирилл Дмитриев, глава Российского фонда прямых инвестиций (РФПИ), раскрыл, что предварительные обсуждения о строительстве тоннеля, соединяющего Россию и Аляску, начались примерно шесть месяцев назад. Амбициозный инфраструктурный проект охватит Берингов пролив, создавая прямое наземное соединение между Россией и Северной Америкой впервые. Хотя проект сталкивается с огромными техническими, финансовыми и политическими вызовами, Дмитриев предположил, что улучшение российско-американских отношений при администрации Трампа может сделать такие мегапроекты осуществимыми. Концепция тоннеля обсуждалась периодически в течение десятилетий, но никогда не продвигалась дальше предварительных стадий планирования из-за затрат, оцениваемых в сотни миллиардов долларов.",
-      "why_trending": "The Russia-Alaska tunnel story captures public imagination as a symbol of potential U.S.-Russia cooperation and represents an ambitious vision for future infrastructure development. It aligns with narratives about Trump's willingness to pursue unconventional diplomatic and economic projects with Russia.",
-      "why_trending_ru": "История о тоннеле Россия-Аляска захватывает общественное воображение как символ потенциального российско-американского сотрудничества и представляет амбициозное видение будущего развития инфраструктуры. Это соответствует нарративам о готовности Трампа реализовывать нетрадиционные дипломатические и экономические проекты с Россией.",
+      "outlet_count": 1,
+      "topic": "International",
+      "vk_engagement": "low",
+      "prominence": "TOP_STORY",
+      "summary": "Israel has received the remains of two more hostages who died in Gaza, according to official reports. This development is part of the ongoing efforts to recover Israeli citizens taken hostage during the October 7 attacks. The return of remains brings some closure to affected families while highlighting the continuing humanitarian dimensions of the Israel-Gaza conflict.",
+      "summary_ru": "Израиль получил останки еще двух заложников, погибших в Газе, согласно официальным сообщениям. Это событие является частью продолжающихся усилий по возвращению израильских граждан, взятых в заложники во время атак 7 октября. Возвращение останков приносит некоторое облегчение пострадавшим семьям.",
+      "why_trending": "The Israel-Gaza conflict remains a major international story, and developments regarding hostages receive significant media attention. The humanitarian aspect of recovering remains resonates with audiences and maintains focus on the ongoing crisis.",
+      "why_trending_ru": "Израильско-газский конфликт остается крупной международной историей, а события, связанные с заложниками, получают значительное внимание СМИ. Гуманитарный аспект возвращения останков резонирует с аудиторией.",
       "source_urls": [
-        "https://ria.ru/",
-        "https://rg.ru/"
+        "https://tass.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Infrastructure",
-        "Bering Strait",
-        "Alaska",
-        "Tunnel",
-        "RDIF",
-        "US-Russia Relations"
+        "international",
+        "israel",
+        "gaza",
+        "hostages",
+        "middle-east"
       ]
     },
     {
       "rank": 11,
-      "title": "First Defense Line Intercepts 80% of Drones Targeting Russia",
-      "title_ru": "Первый заслон обороны перехватывает 80% дронов, нацеленных на Россию",
-      "viral_score": 71,
+      "title": "Russian Forces Destroyed Military Equipment Trains in Sumy Region",
+      "title_ru": "Российские войска уничтожили эшелоны с военной техникой в Сумской области",
+      "viral_score": 59,
       "outlets": [
-        "Komsomolskaya Pravda"
+        "RIA Novosti"
       ],
       "outlet_count": 1,
-      "topic": "Military Defense",
-      "vk_engagement": "medium",
-      "prominence": "top_story",
-      "summary": "Komsomolskaya Pravda's military correspondent Alexander Kots reported on Russia's first line of drone defense, revealing that specialized units are successfully intercepting approximately 80% of Ukrainian drones attempting to penetrate deep into Russian territory. The report, featured as the newspaper's 'Picture of the Day,' provides exclusive details about the tactics, equipment, and personnel manning these forward defense positions. Kots describes how these units use a combination of electronic warfare systems, small arms, and portable anti-aircraft weapons to neutralize threats before they can reach strategic targets. The high interception rate demonstrates the effectiveness of Russia's layered air defense strategy against the growing threat of long-range Ukrainian drone attacks.",
-      "summary_ru": "Военный корреспондент Комсомольской правды Александр Коц сообщил о первой линии обороны России от дронов, раскрывая, что специализированные подразделения успешно перехватывают примерно 80% украинских дронов, пытающихся проникнуть глубоко на российскую территорию. Репортаж, представленный как 'Картина дня' газеты, предоставляет эксклюзивные детали о тактике, оборудовании и персонале, обслуживающем эти передовые оборонительные позиции. Коц описывает, как эти подразделения используют комбинацию систем радиоэлектронной борьбы, стрелкового оружия и портативных зенитных средств для нейтрализации угроз до того, как они смогут достичь стратегических целей. Высокий уровень перехвата демонстрирует эффективность многоуровневой стратегии ПВО России против растущей угрозы дальнобойных украинских атак дронами.",
-      "why_trending": "This exclusive military report provides rare insights into Russia's defensive operations and showcases the effectiveness of frontline units protecting the homeland. The 80% success rate is a compelling statistic that reassures Russian citizens about their security and validates military investments in air defense.",
-      "why_trending_ru": "Этот эксклюзивный военный репортаж предоставляет редкие сведения об оборонительных операциях России и демонстрирует эффективность фронтовых подразделений, защищающих родину. 80% успешности - убедительная статистика, которая успокаивает российских граждан относительно их безопасности и подтверждает военные инвестиции в ПВО.",
+      "topic": "Special Military Operation",
+      "vk_engagement": "low",
+      "prominence": "TOP_STORY",
+      "summary": "Russian military forces successfully destroyed multiple trains carrying military equipment in Ukraine's Sumy region. The strike targeted Ukrainian military logistics, disrupting the transport of weapons and vehicles to frontline positions. This operation is part of Russia's ongoing efforts to degrade Ukrainian military capabilities by targeting supply lines and equipment concentrations.",
+      "summary_ru": "Российские вооруженные силы успешно уничтожили несколько эшелонов с военной техникой в Сумской области Украины. Удар был нацелен на украинскую военную логистику, нарушив транспортировку оружия и техники на передовые позиции. Эта операция является частью продолжающихся усилий России по ослаблению военных возможностей Украины.",
+      "why_trending": "Strikes on military logistics are strategically significant and demonstrate Russia's ability to target Ukrainian supply lines. The story is trending because it represents a tactical success and has implications for the broader military situation.",
+      "why_trending_ru": "Удары по военной логистике имеют стратегическое значение и демонстрируют способность России поражать украинские линии снабжения. История в тренде, потому что она представляет тактический успех.",
       "source_urls": [
-        "https://www.kp.ru/"
+        "https://ria.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Air Defense",
-        "Drones",
-        "Military",
-        "Electronic Warfare",
-        "Border Security",
-        "Exclusive Report"
+        "military",
+        "special-operation",
+        "ukraine",
+        "logistics",
+        "strike"
       ]
     },
     {
       "rank": 12,
-      "title": "Putin Reveals Russia's Secret Intercontinental Weapon System",
-      "title_ru": "Путин раскрыл секретное межконтинентальное оружие России",
-      "viral_score": 72,
+      "title": "BARS-27 Volunteers: Guardians of the 'Road of Life' Supplying the Front",
+      "title_ru": "Хранители «дороги жизни»: как добровольцы из БАРС-27 обеспечивают снабжение передовой",
+      "viral_score": 59,
       "outlets": [
         "Komsomolskaya Pravda"
       ],
       "outlet_count": 1,
-      "topic": "Military / Defense",
-      "vk_engagement": "high",
-      "prominence": "featured",
-      "summary": "President Vladimir Putin revealed the existence of a secret intercontinental weapon system that Russia has been developing for 20 years, describing it as a strategic deterrent that ensures Russia's sovereignty and security. While Putin did not disclose specific technical details, he emphasized that the weapon represents a breakthrough in military technology and cannot be countered by existing defense systems. Defense analysts speculate the reference could be to hypersonic weapons, advanced nuclear delivery systems, or other classified strategic capabilities. Putin's disclosure at the RT anniversary event underscores Russia's commitment to maintaining strategic parity with the West despite sanctions and technological restrictions.",
-      "summary_ru": "Президент Владимир Путин раскрыл существование секретной системы межконтинентального оружия, которую Россия разрабатывала в течение 20 лет, описывая ее как стратегическое средство сдерживания, обеспечивающее суверенитет и безопасность России. Хотя Путин не раскрыл конкретных технических деталей, он подчеркнул, что оружие представляет собой прорыв в военных технологиях и не может быть нейтрализовано существующими системами обороны. Оборонные аналитики предполагают, что ссылка может быть на гиперзвуковое оружие, передовые системы доставки ядерного оружия или другие засекреченные стратегические возможности. Раскрытие Путина на юбилее RT подчеркивает приверженность России поддержанию стратегического паритета с Западом несмотря на санкции и технологические ограничения.",
-      "why_trending": "Putin's revelation about secret weapons generates significant public interest and pride in Russia's military-technological achievements. Such announcements reinforce narratives about Russia's strategic strength and ability to develop advanced systems independently of Western technology.",
-      "why_trending_ru": "Раскрытие Путиным секретного оружия генерирует значительный общественный интерес и гордость военно-технологическими достижениями России. Такие заявления усиливают нарративы о стратегической силе России и способности разрабатывать передовые системы независимо от западных технологий.",
+      "topic": "Special Military Operation",
+      "vk_engagement": "low",
+      "prominence": "TOP_STORY",
+      "summary": "A special report highlights the work of BARS-27 volunteers, who serve as guardians of the 'road of life' by ensuring critical supplies reach Russian forces on the front lines. These volunteers from the Defense Ministry's volunteer corps operate in dangerous conditions to maintain supply lines, demonstrating the importance of logistics and civilian support in military operations. Their dedication exemplifies the broader mobilization of Russian society in support of military objectives.",
+      "summary_ru": "Специальный репортаж освещает работу добровольцев БАРС-27, которые служат хранителями «дороги жизни», обеспечивая доставку критически важных припасов российским силам на передовой. Эти добровольцы из Добровольческого корпуса Минобороны работают в опасных условиях для поддержания линий снабжения.",
+      "why_trending": "Human interest stories about volunteers supporting military operations resonate with audiences by highlighting personal sacrifice and dedication. The story is trending because it provides a positive narrative about civilian contributions to the military effort.",
+      "why_trending_ru": "Истории о добровольцах, поддерживающих военные операции, резонируют с аудиторией, подчеркивая личные жертвы и преданность. История в тренде, потому что она предоставляет позитивный нарратив о гражданском вкладе.",
       "source_urls": [
         "https://www.kp.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Putin",
-        "Secret Weapons",
-        "Military Technology",
-        "Strategic Deterrence",
-        "Hypersonic",
-        "National Security"
+        "military",
+        "volunteers",
+        "special-operation",
+        "logistics",
+        "bars-27"
       ]
     },
     {
       "rank": 13,
-      "title": "Powerful Solar Flares Detected, Comet Approaches Earth",
-      "title_ru": "Зафиксированы мощные солнечные вспышки, комета приближается к Земле",
-      "viral_score": 70,
+      "title": "Afghanistan and Pakistan Agreed on Immediate Ceasefire",
+      "title_ru": "Афганистан и Пакистан договорились о немедленном прекращении огня",
+      "viral_score": 57,
       "outlets": [
-        "RIA Novosti",
-        "Komsomolskaya Pravda"
+        "TASS"
       ],
-      "outlet_count": 2,
-      "topic": "Science",
-      "vk_engagement": "medium",
-      "prominence": "featured",
-      "summary": "Scientists have detected two powerful solar flares on the Sun's surface, while separately, a large comet is approaching Earth at its closest distance in recorded history. The solar flares could potentially affect satellite communications, GPS systems, and power grids, though experts say the risk of significant disruption is low. Meanwhile, the comet's approach offers a rare opportunity for astronomical observation, with the celestial body expected to be visible to the naked eye in the coming days. Astronomers are encouraging amateur stargazers to observe this once-in-a-lifetime event, while space weather monitoring services are tracking both phenomena for any potential impacts on Earth's technological infrastructure.",
-      "summary_ru": "Ученые зафиксировали две мощные солнечные вспышки на поверхности Солнца, в то время как отдельно большая комета приближается к Земле на самом близком расстоянии в зафиксированной истории. Солнечные вспышки потенциально могут повлиять на спутниковую связь, системы GPS и электросети, хотя эксперты говорят, что риск значительных нарушений низок. Между тем, приближение кометы предлагает редкую возможность для астрономических наблюдений, ожидается, что небесное тело будет видно невооруженным глазом в ближайшие дни. Астрономы призывают любителей наблюдать за этим событием, случающимся раз в жизни, в то время как службы мониторинга космической погоды отслеживают оба явления на предмет любых потенциальных воздействий на технологическую инфраструктуру Земли.",
-      "why_trending": "Space and astronomical phenomena consistently attract public interest in Russia, offering a break from political and military news. The combination of solar activity and a rare comet sighting provides engaging science content that appeals to a broad audience.",
-      "why_trending_ru": "Космические и астрономические явления последовательно привлекают общественный интерес в России, предлагая перерыв от политических и военных новостей. Сочетание солнечной активности и редкого появления кометы предоставляет увлекательный научный контент, который привлекает широкую аудиторию.",
+      "outlet_count": 1,
+      "topic": "International",
+      "vk_engagement": "low",
+      "prominence": "TOP_STORY",
+      "summary": "Afghanistan and Pakistan have reached an agreement on an immediate ceasefire, marking a significant diplomatic breakthrough in the troubled relationship between the two neighboring countries. The ceasefire agreement aims to reduce border tensions and create conditions for dialogue on longstanding disputes. This development could have important implications for regional stability in South Asia.",
+      "summary_ru": "Афганистан и Пакистан достигли соглашения о немедленном прекращении огня, что стало значительным дипломатическим прорывом в проблемных отношениях между двумя соседними странами. Соглашение о прекращении огня направлено на снижение пограничной напряженности и создание условий для диалога.",
+      "why_trending": "The ceasefire between Afghanistan and Pakistan is significant for regional stability and represents a rare positive development in a volatile region. The story is trending because it affects geopolitical dynamics in South Asia and has potential implications for security.",
+      "why_trending_ru": "Прекращение огня между Афганистаном и Пакистаном имеет значение для региональной стабильности и представляет собой редкое позитивное событие в нестабильном регионе.",
       "source_urls": [
-        "https://ria.ru/",
-        "https://www.kp.ru/"
+        "https://tass.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Solar Flares",
-        "Comet",
-        "Astronomy",
-        "Space Weather",
-        "Science",
-        "Natural Phenomena"
+        "international",
+        "afghanistan",
+        "pakistan",
+        "ceasefire",
+        "diplomacy"
       ]
     },
     {
       "rank": 14,
-      "title": "Zakharova: NATO Secretary General Promotes War-Oriented Propaganda",
-      "title_ru": "Захарова: Генсек НАТО ведет пропаганду войны против России",
-      "viral_score": 68,
+      "title": "Tunnel Between Chukotka and Alaska Would Be Twice as Long as Channel Tunnel",
+      "title_ru": "Тоннель между Чукоткой и Аляской будет в два раза длиннее Евротоннеля",
+      "viral_score": 55,
       "outlets": [
+        "RIA Novosti",
         "Rossiyskaya Gazeta"
       ],
-      "outlet_count": 1,
-      "topic": "International Relations",
-      "vk_engagement": "medium",
-      "prominence": "featured",
-      "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova accused NATO Secretary General of conducting war propaganda specifically targeted against Russia, stating that his rhetoric is designed to escalate tensions and justify increased military spending by alliance members. Zakharova's comments came in response to recent statements by NATO leadership regarding the alliance's readiness to confront Russia and support for Ukraine. She argued that NATO's aggressive posture contradicts its stated defensive mission and represents a threat to European security. The Russian diplomat called on European nations to resist pressure from NATO leadership and pursue independent foreign policies based on their national interests rather than bloc confrontation.",
-      "summary_ru": "Официальный представитель МИД России Мария Захарова обвинила генерального секретаря НАТО в ведении военной пропаганды, специально нацеленной против России, заявив, что его риторика предназначена для эскалации напряженности и оправдания увеличения военных расходов членами альянса. Комментарии Захаровой последовали в ответ на недавние заявления руководства НАТО о готовности альянса противостоять России и поддержке Украины. Она утверждала, что агрессивная позиция НАТО противоречит его заявленной оборонительной миссии и представляет угрозу европейской безопасности. Российский дипломат призвала европейские страны сопротивляться давлению руководства НАТО и проводить независимую внешнюю политику, основанную на их национальных интересах, а не на блоковой конфронтации.",
-      "why_trending": "Zakharova's statements about NATO propaganda resonate with Russian audiences who view the alliance as an existential threat. Her critiques of Western military leadership are regularly featured in Russian media and support government narratives about NATO aggression.",
-      "why_trending_ru": "Заявления Захаровой о пропаганде НАТО резонируют с российской аудиторией, которая рассматривает альянс как экзистенциальную угрозу. Ее критика западного военного руководства регулярно освещается в российских СМИ и поддерживает правительственные нарративы об агрессии НАТО.",
+      "outlet_count": 2,
+      "topic": "Infrastructure",
+      "vk_engagement": "low",
+      "prominence": "FEATURED",
+      "summary": "A proposed tunnel connecting Russia's Chukotka region with Alaska would be twice as long as the Channel Tunnel between England and France, according to engineering assessments. The ambitious infrastructure project has been discussed in the context of Trump-Zelensky meetings and represents a theoretical mega-project that would create a physical link between Russia and the United States across the Bering Strait.",
+      "summary_ru": "Предлагаемый тоннель, соединяющий Чукотку России с Аляской, будет в два раза длиннее тоннеля под Ла-Маншем между Англией и Францией, согласно инженерным оценкам. Амбициозный инфраструктурный проект обсуждался в контексте встреч Трампа и Зеленского.",
+      "why_trending": "The tunnel proposal gained attention after Trump mentioned it in his meeting with Zelensky, making it a talking point in international relations. The story is trending because it combines geopolitical intrigue with a fascinating infrastructure concept.",
+      "why_trending_ru": "Предложение о тоннеле привлекло внимание после того, как Трамп упомянул его на встрече с Зеленским, сделав его темой для обсуждения в международных отношениях.",
       "source_urls": [
+        "https://ria.ru/",
         "https://rg.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "NATO",
-        "Zakharova",
-        "Propaganda",
-        "Foreign Ministry",
-        "European Security",
-        "Military Alliance"
+        "infrastructure",
+        "russia-us-relations",
+        "engineering",
+        "chukotka",
+        "alaska"
       ]
     },
     {
       "rank": 15,
-      "title": "Russian Actor Hospitalized with Suspected Cancer Diagnosis",
-      "title_ru": "Российский актер госпитализирован с подозрением на онкологию",
-      "viral_score": 66,
+      "title": "Gold Price Surge Brought Russia $142 Billion Over Two Years",
+      "title_ru": "Взлет цен на золото принес России 142 миллиарда долларов за два года",
+      "viral_score": 44,
       "outlets": [
-        "Lenta.ru"
+        "RIA Novosti"
       ],
       "outlet_count": 1,
-      "topic": "Society / Culture",
-      "vk_engagement": "medium",
-      "prominence": "featured",
-      "summary": "A prominent Russian actor has been urgently hospitalized with a suspected cancer diagnosis, according to entertainment media reports. While the actor's identity has been confirmed in Russian sources, medical privacy concerns have limited the release of specific details about the diagnosis and treatment plan. The news has generated significant public concern and expressions of support on social media, with fans and colleagues wishing for a successful recovery. The incident highlights ongoing discussions in Russia about healthcare access for public figures and the broader population, as well as the emotional connection Russian audiences maintain with their cultural icons.",
-      "summary_ru": "Известный российский актер был срочно госпитализирован с подозрением на онкологический диагноз, согласно сообщениям развлекательных СМИ. Хотя личность актера была подтверждена в российских источниках, соображения медицинской конфиденциальности ограничили публикацию конкретных деталей о диагнозе и плане лечения. Новость вызвала значительную общественную обеспокоенность и выражения поддержки в социальных сетях, при этом поклонники и коллеги желают успешного выздоровления. Инцидент подчеркивает продолжающиеся обсуждения в России о доступе к здравоохранению для общественных деятелей и более широкого населения, а также эмоциональную связь, которую российская аудитория поддерживает со своими культурными иконами.",
-      "why_trending": "Celebrity health stories consistently generate strong public interest in Russia, particularly when involving beloved cultural figures. Such stories humanize public personalities and create emotional connections with audiences, driving social media engagement and news consumption.",
-      "why_trending_ru": "Истории о здоровье знаменитостей последовательно генерируют сильный общественный интерес в России, особенно когда затрагивают любимых культурных деятелей. Такие истории очеловечивают публичные личности и создают эмоциональные связи с аудиторией, стимулируя взаимодействие в социальных сетях и потребление новостей.",
+      "topic": "Economy",
+      "vk_engagement": "low",
+      "prominence": "FEATURED",
+      "summary": "The surge in global gold prices has brought Russia approximately $142 billion in additional revenue over the past two years, according to economic analysts. Russia's significant gold reserves and production capacity have allowed the country to benefit substantially from the precious metal's price appreciation. This windfall has important implications for Russia's economic resilience and fiscal position amid international sanctions.",
+      "summary_ru": "Рост мировых цен на золото принес России примерно 142 миллиарда долларов дополнительных доходов за последние два года, согласно экономическим аналитикам. Значительные золотые резервы и производственные мощности России позволили стране существенно выиграть от роста цен на драгоценный металл.",
+      "why_trending": "The massive financial windfall from gold demonstrates Russia's economic adaptability and provides a positive economic narrative. The story is trending because it shows how Russia has benefited from global commodity markets despite sanctions.",
+      "why_trending_ru": "Массовый финансовый выигрыш от золота демонстрирует экономическую адаптивность России и предоставляет позитивный экономический нарратив. История в тренде, потому что она показывает, как Россия выиграла от глобальных товарных рынков.",
       "source_urls": [
-        "https://lenta.ru/"
+        "https://ria.ru/"
       ],
-      "date": "2025-10-18",
+      "date": "2025-10-19",
       "tags": [
-        "Celebrity",
-        "Healthcare",
-        "Cancer",
-        "Russian Cinema",
-        "Public Health",
-        "Entertainment"
+        "economy",
+        "gold",
+        "commodities",
+        "revenue",
+        "sanctions"
       ]
     }
   ]
