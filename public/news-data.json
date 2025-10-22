@@ -1,9 +1,12 @@
 {
   "metadata": {
-    "collection_date": "2025-10-22T07:09:41.769057+00:00",
-    "collection_date_display": "2025-10-22 07:09 UTC",
+    "collection_date": "2025-10-22T09:32:53.804789+00:00",
+    "collection_date_display": "2025-10-22 09:32 UTC",
+    "generated_at": "2025-10-22T09:32:53.804858+00:00",
+    "collection_period": "daily_update",
     "total_stories": 15,
-    "sources": [
+    "total_outlets": 6,
+    "outlets": [
       {
         "name": "RT Russian",
         "url": "https://russian.rt.com/",

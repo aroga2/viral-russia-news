@@ -1,629 +1,493 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T10:09:33.963358+03:00",
-    "collection_period": "2025-10-21",
+    "collection_date": "2025-10-22T09:32:53.804789+00:00",
+    "collection_date_display": "2025-10-22 09:32 UTC",
+    "generated_at": "2025-10-22T09:32:53.804858+00:00",
+    "collection_period": "daily_update",
+    "total_stories": 15,
     "total_outlets": 6,
     "outlets": [
       {
         "name": "RT Russian",
         "url": "https://russian.rt.com/",
-        "vk_followers": 1579665
+        "vk": "https://vk.com/rt_russian",
+        "followers": "1.5M"
       },
       {
         "name": "TASS",
-        "url": "https://tass.ru/",
-        "vk_followers": null
+        "url": "https://tass.ru/"
       },
       {
         "name": "RIA Novosti",
         "url": "https://ria.ru/",
-        "vk_followers": 3348307
+        "vk": "https://vk.com/ria",
+        "followers": "3.3M"
       },
       {
         "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/",
-        "vk_followers": null
+        "url": "https://rg.ru/"
       },
       {
         "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/",
-        "vk_followers": null
+        "url": "https://www.kp.ru/"
       },
       {
         "name": "Lenta.ru",
-        "url": "https://lenta.ru/",
-        "vk_followers": null
+        "url": "https://lenta.ru/"
       }
-    ]
+    ],
+    "scoring_methodology": {
+      "outlet_coverage": "0-40 points (8 points per outlet)",
+      "prominence": "0-30 points (top_story=30, featured=20, main=10)",
+      "recency": "0-30 points (based on hours since publication)",
+      "max_score": 100
+    }
   },
   "stories": [
     {
-      "title": "Russia shoots down 55 Ukrainian drones in overnight attack",
-      "title_ru": "ПВО России сбила 55 украинских БПЛА за ночь",
-      "outlets": [
-        "RT",
-        "TASS",
-        "RIA",
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "outlet_count": 6,
-      "prominence": "top_story",
-      "topic": "Military",
-      "keywords": [
-        "БПЛА",
-        "дрон",
-        "ПВО",
-        "55",
-        "украинск"
-      ],
-      "viral_score": 100,
       "rank": 1,
-      "summary": "Russian air defense forces successfully intercepted and destroyed 55 Ukrainian unmanned aerial vehicles during overnight attacks across multiple regions. The Ministry of Defense reported that the drones were targeting civilian and military infrastructure. All threats were neutralized without significant damage to critical facilities.",
-      "summary_ru": "Силы ПВО России успешно перехватили и уничтожили 55 украинских беспилотных летательных аппаратов во время ночных атак на несколько регионов. Министерство обороны сообщило, что дроны нацеливались на гражданскую и военную инфраструктуру. Все угрозы были нейтрализованы без значительного ущерба критически важным объектам.",
-      "why_trending": "This story is trending because it represents one of the largest single-night drone interception operations, demonstrating Russia's air defense capabilities. The scale of the attack and successful defense resonates across all major Russian media outlets.",
-      "why_trending_ru": "Эта история в тренде, потому что представляет одну из крупнейших операций по перехвату дронов за одну ночь, демонстрируя возможности российской ПВО. Масштаб атаки и успешная оборона освещаются всеми крупными российскими СМИ.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://tass.ru/",
-        "https://ria.ru/",
-        "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "military",
-        "air_defense",
-        "drones",
-        "ukraine_conflict",
-        "national_security"
-      ],
-      "vk_engagement": "high"
-    },
-    {
-      "title": "Lavrov-Rubio meeting on Ukraine postponed",
-      "title_ru": "Встречу Лаврова и Рубио по Украине отложили",
-      "outlets": [
-        "RT",
-        "TASS",
-        "RIA",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "outlet_count": 5,
-      "prominence": "main",
-      "topic": "Politics",
-      "keywords": [
-        "Лавров",
-        "Рубио",
-        "встреча",
-        "отложили",
-        "перенос"
-      ],
-      "viral_score": 82.3,
-      "rank": 2,
-      "summary": "The highly anticipated meeting between Russian Foreign Minister Sergey Lavrov and US Secretary of State Marco Rubio has been postponed. The meeting was expected to address the Ukraine conflict and bilateral relations. Deputy Foreign Minister Ryabkov stated that the postponement requires additional preparation and coordination between both sides.",
-      "summary_ru": "Долгожданная встреча между министром иностранных дел России Сергеем Лавровым и госсекретарем США Марко Рубио была отложена. Ожидалось, что встреча будет посвящена украинскому конфликту и двусторонним отношениям. Замминистра иностранных дел Рябков заявил, что перенос требует дополнительной подготовки и координации между обеими сторонами.",
-      "why_trending": "The postponement of this crucial diplomatic meeting is trending as it affects potential peace negotiations regarding Ukraine. Five major outlets covered this development, indicating its significance for Russia-US relations.",
-      "why_trending_ru": "Перенос этой важнейшей дипломатической встречи находится в тренде, так как влияет на потенциальные мирные переговоры по Украине. Пять крупных изданий осветили это событие, что указывает на его значимость для российско-американских отношений.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://tass.ru/",
-        "https://ria.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "diplomacy",
-        "russia_us_relations",
-        "lavrov",
-        "ukraine_conflict",
-        "foreign_policy"
-      ],
-      "vk_engagement": "high"
-    },
-    {
-      "title": "Ukrainian drone strike damages residential buildings in Bataysk, Rostov region",
-      "title_ru": "Атака БПЛА на Батайск: повреждены жилые дома в Ростовской области",
-      "outlets": [
-        "RT",
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "outlet_count": 4,
-      "prominence": "featured",
-      "topic": "Military",
-      "keywords": [
-        "Батайск",
-        "Ростов",
-        "БПЛА",
-        "атака",
-        "жилые дома"
-      ],
-      "viral_score": 81.7,
-      "rank": 3,
-      "summary": "Ukrainian drones struck residential areas in Bataysk, a satellite city of Rostov-on-Don, causing damage to apartment buildings, shops, and a medical center. Several civilians were injured in the attack. The regional governor published footage showing the extent of destruction and confirmed emergency services are working at the scene.",
-      "summary_ru": "Украинские дроны нанесли удар по жилым районам Батайска, города-спутника Ростова-на-Дону, причинив ущерб многоквартирным домам, магазинам и медицинскому центру. Несколько мирных жителей получили ранения в результате атаки. Губернатор региона опубликовал кадры, показывающие масштаб разрушений, и подтвердил, что на месте работают службы экстренного реагирования.",
-      "why_trending": "This attack on civilian infrastructure in a major Russian city is trending due to its impact on residential areas. Four outlets featured this story prominently, highlighting concerns about civilian safety in border regions.",
-      "why_trending_ru": "Эта атака на гражданскую инфраструктуру в крупном российском городе находится в тренде из-за воздействия на жилые районы. Четыре издания выделили эту историю, подчеркивая обеспокоенность безопасностью мирных жителей в приграничных регионах.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "military",
-        "civilian_casualties",
-        "rostov_region",
-        "drone_attack",
-        "ukraine_conflict"
-      ],
-      "vk_engagement": "high"
-    },
-    {
-      "title": "SVR Chief Naryshkin: NATO preparing resources for war with Russia",
-      "title_ru": "Глава СВР Нарышкин: НАТО готовится к войне с Россией",
-      "outlets": [
-        "TASS",
-        "RIA",
-        "Rossiyskaya Gazeta",
-        "Lenta.ru"
-      ],
-      "outlet_count": 4,
-      "prominence": "featured",
-      "topic": "Military",
-      "keywords": [
-        "Нарышкин",
-        "НАТО",
-        "война",
-        "подготовка",
-        "СВР"
-      ],
-      "viral_score": 81.7,
-      "rank": 4,
-      "summary": "SVR Director Sergey Naryshkin stated that NATO is preparing resources and infrastructure for potential military confrontation with Russia. He warned that European NATO allies are actively preparing for conflict, citing increased military exercises and resource mobilization near Russian borders. The statement emphasizes Russia's assessment of growing military tensions.",
-      "summary_ru": "Директор СВР Сергей Нарышкин заявил, что НАТО готовит ресурсы и инфраструктуру для потенциальной военной конфронтации с Россией. Он предупредил, что европейские союзники НАТО активно готовятся к конфликту, ссылаясь на увеличение военных учений и мобилизацию ресурсов вблизи российских границ. Заявление подчеркивает оценку Россией растущей военной напряженности.",
-      "why_trending": "Naryshkin's warning about NATO preparations is trending as it represents a high-level assessment of European security dynamics. Four major outlets covered this statement, reflecting its importance for understanding Russia's strategic concerns.",
-      "why_trending_ru": "Предупреждение Нарышкина о подготовке НАТО находится в тренде, так как представляет оценку высокого уровня европейской динамики безопасности. Четыре крупных издания осветили это заявление, отражая его важность для понимания стратегических опасений России.",
-      "source_urls": [
-        "https://tass.ru/",
-        "https://ria.ru/",
-        "https://rg.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "military",
-        "nato",
-        "security",
-        "intelligence",
-        "geopolitics"
-      ],
-      "vk_engagement": "medium"
-    },
-    {
-      "title": "Ryabkov: Russia will continue to face attacks from Western information resources",
-      "title_ru": "Рябков: РФ будет и впредь сталкиваться со вбросами западных ресурсов",
-      "outlets": [
-        "TASS",
-        "RIA",
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda"
-      ],
-      "outlet_count": 4,
-      "prominence": "featured",
-      "topic": "Politics",
-      "keywords": [
-        "Рябков",
-        "западн",
-        "вброс",
-        "ресурс"
-      ],
-      "viral_score": 80.7,
-      "rank": 5,
-      "summary": "Deputy Foreign Minister Sergey Ryabkov stated that Russia will continue to face information attacks and disinformation campaigns from Western media resources. He emphasized that these efforts aim to undermine Russia's international standing and domestic stability. Ryabkov called for vigilance and strengthened information security measures.",
-      "summary_ru": "Заместитель министра иностранных дел Сергей Рябков заявил, что Россия будет продолжать сталкиваться с информационными атаками и кампаниями дезинформации со стороны западных медиаресурсов. Он подчеркнул, что эти усилия направлены на подрыв международного положения России и внутренней стабильности. Рябков призвал к бдительности и укреплению мер информационной безопасности.",
-      "why_trending": "Ryabkov's statement about ongoing information warfare is trending as it addresses a key concern in Russia's relations with the West. Four outlets covered this story, indicating its relevance to media and information security discussions.",
-      "why_trending_ru": "Заявление Рябкова о продолжающейся информационной войне находится в тренде, так как затрагивает ключевую проблему в отношениях России с Западом. Четыре издания осветили эту историю, указывая на ее актуальность для обсуждений медиа и информационной безопасности.",
-      "source_urls": [
-        "https://tass.ru/",
-        "https://ria.ru/",
-        "https://rg.ru/",
-        "https://www.kp.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "information_warfare",
-        "diplomacy",
-        "media",
-        "western_relations",
-        "disinformation"
-      ],
-      "vk_engagement": "medium"
-    },
-    {
-      "title": "Mayor of Gyumri, Armenia arrested for two months",
-      "title_ru": "Мэра Гюмри Вардана Гукасяна арестовали на два месяца",
-      "outlets": [
-        "TASS",
-        "RIA",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "outlet_count": 4,
-      "prominence": "featured",
-      "topic": "International",
-      "keywords": [
-        "Гюмри",
-        "мэр",
-        "Гукасян",
-        "арест",
-        "Армения"
-      ],
-      "viral_score": 78.7,
-      "rank": 6,
-      "summary": "A Moscow resident was arrested on treason charges for allegedly passing classified information about Russian air defense systems and military facilities to Ukrainian intelligence services. The FSB detained the suspect who had been collecting and transmitting sensitive data. This case highlights ongoing counterintelligence operations in the capital.",
-      "summary_ru": "Житель Москвы был арестован по обвинению в государственной измене за предполагаемую передачу секретной информации о российских системах ПВО и военных объектах украинским спецслужбам. ФСБ задержала подозреваемого, который собирал и передавал секретные данные. Этот случай подчеркивает продолжающиеся контрразведывательные операции в столице.",
-      "why_trending": "This espionage case is trending as it represents the first such arrest in Moscow specifically related to air defense intelligence. Four outlets covered the story, emphasizing national security concerns in the capital.",
-      "why_trending_ru": "Это дело о шпионаже находится в тренде, так как представляет первый такой арест в Москве, конкретно связанный с разведкой ПВО. Четыре издания осветили историю, подчеркивая проблемы национальной безопасности в столице.",
-      "source_urls": [
-        "https://russian.rt.com/",
-        "https://tass.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "security",
-        "espionage",
-        "treason",
-        "moscow",
-        "counterintelligence"
-      ],
-      "vk_engagement": "medium"
-    },
-    {
-      "title": "Russian forces liberate settlements in DPR and Zaporozhye region",
-      "title_ru": "ВС России освободили населенные пункты в ДНР и Запорожской области",
-      "outlets": [
-        "RT",
-        "TASS",
-        "RIA"
-      ],
-      "outlet_count": 3,
-      "prominence": "featured",
-      "topic": "Military",
-      "keywords": [
-        "освобод",
-        "ДНР",
-        "Запорож",
-        "ВС России",
-        "Полтавка",
-        "Чунишино"
-      ],
-      "viral_score": 75.0,
-      "rank": 7,
-      "summary": "Vardan Gukasyan, the mayor of Gyumri, Armenia's second-largest city, was arrested for two months pending investigation. The arrest follows allegations related to his pro-Russian stance and statements supporting closer ties with Moscow. His defense team announced plans to appeal the detention decision.",
-      "summary_ru": "Вардан Гукасян, мэр Гюмри, второго по величине города Армении, был арестован на два месяца на время следствия. Арест последовал за обвинениями, связанными с его пророссийской позицией и заявлениями в поддержку более тесных связей с Москвой. Его защита объявила о планах обжаловать решение о задержании.",
-      "why_trending": "The arrest of a pro-Russian mayor in Armenia is trending as it reflects ongoing political tensions in the South Caucasus. Four outlets covered this development, highlighting its implications for Russia-Armenia relations.",
-      "why_trending_ru": "Арест пророссийского мэра в Армении находится в тренде, так как отражает продолжающуюся политическую напряженность на Южном Кавказе. Четыре издания осветили это событие, подчеркивая его последствия для российско-армянских отношений.",
-      "source_urls": [
-        "https://tass.ru/",
-        "https://ria.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "international",
-        "armenia",
-        "politics",
-        "south_caucasus",
-        "russia_relations"
-      ],
-      "vk_engagement": "medium"
-    },
-    {
-      "title": "Putin discusses mortgage situation with DOM.RF head Mutko",
-      "title_ru": "Владимир Путин провел встречу с гендиректором ДОМ.РФ Виталием Мутко",
-      "outlets": [
-        "Komsomolskaya Pravda",
-        "Rossiyskaya Gazeta",
-        "RIA"
-      ],
-      "outlet_count": 3,
-      "prominence": "featured",
-      "topic": "Economy",
-      "keywords": [
-        "Путин",
-        "Мутко",
-        "ипотека",
-        "ДОМ.РФ"
-      ],
-      "viral_score": 71.0,
-      "rank": 8,
-      "summary": "President Vladimir Putin held a meeting with Vitaly Mutko, CEO of DOM.RF, to discuss the current mortgage situation in Russia. The discussion focused on measures to revive the mortgage market, which has been affected by high interest rates. Putin emphasized the importance of making housing more accessible to Russian families.",
-      "summary_ru": "Президент Владимир Путин провел встречу с Виталием Мутко, генеральным директором ДОМ.РФ, для обсуждения текущей ситуации с ипотекой в России. Обсуждение было сосредоточено на мерах по оживлению ипотечного рынка, который пострадал от высоких процентных ставок. Путин подчеркнул важность повышения доступности жилья для российских семей.",
-      "why_trending": "This meeting is trending as mortgage affordability is a major concern for Russian citizens. Three outlets featured this story, reflecting public interest in housing policy and economic measures.",
-      "why_trending_ru": "Эта встреча находится в тренде, так как доступность ипотеки является серьезной проблемой для российских граждан. Три издания выделили эту историю, отражая общественный интерес к жилищной политике и экономическим мерам.",
-      "source_urls": [
-        "https://www.kp.ru/",
-        "https://rg.ru/",
-        "https://ria.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "economy",
-        "housing",
-        "mortgage",
-        "putin",
-        "domestic_policy"
-      ],
-      "vk_engagement": "medium"
-    },
-    {
-      "title": "Moscow resident arrested for treason, passing air defense data to Ukraine",
-      "title_ru": "В Москве задержан за госизмену передававший Киеву данные о ПВО россиянин",
-      "outlets": [
-        "RT",
-        "TASS",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "outlet_count": 4,
-      "prominence": "news_feed",
+      "title": "FSB detains Russian for passing military data to Ukraine",
+      "title_ru": "ФСБ задержала россиянина за передачу данных Киеву",
       "topic": "Security",
-      "keywords": [
-        "Москва",
-        "госизмена",
-        "задержан",
-        "ПВО",
-        "Украина"
+      "viral_score": 100,
+      "outlet_count": 5,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
       ],
-      "viral_score": 69.7,
-      "rank": 9,
-      "summary": "Russian Armed Forces liberated several settlements in the Donetsk People's Republic and Zaporozhye region, including Poltavka and Chunishino. The Ministry of Defense reported that forces from the East and Center groups conducted successful offensive operations. The liberation of these areas strengthens Russian positions in the region.",
-      "summary_ru": "Вооруженные силы России освободили несколько населенных пунктов в Донецкой Народной Республике и Запорожской области, включая Полтавку и Чунишино. Министерство обороны сообщило, что силы группировок «Восток» и «Центр» провели успешные наступательные операции. Освобождение этих районов укрепляет российские позиции в регионе.",
-      "why_trending": "The liberation of multiple settlements is trending as it demonstrates continued military progress. Three major outlets covered these operations, indicating their significance for the overall military situation.",
-      "why_trending_ru": "Освобождение нескольких населенных пунктов находится в тренде, так как демонстрирует продолжающийся военный прогресс. Три крупных издания осветили эти операции, указывая на их значимость для общей военной ситуации.",
+      "prominence": "top_story",
+      "recency_hours": 1,
+      "summary": "This story was covered by 5 major Russian media outlets and achieved a viral score of 100/100.",
+      "summary_ru": "Эта новость освещалась 5 крупными российскими СМИ и получила вирусный рейтинг 100/100.",
       "source_urls": [
-        "https://russian.rt.com/",
-        "https://tass.ru/",
-        "https://ria.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "military",
-        "ukraine_conflict",
-        "dpr",
-        "zaporozhye",
-        "liberation"
-      ],
-      "vk_engagement": "medium"
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
     },
     {
-      "title": "Sergey Sobyanin marks 15 years as Moscow mayor",
-      "title_ru": "Сергей Собянин возглавил Москву 15 лет назад",
+      "rank": 2,
+      "title": "Russia shoots down 33 Ukrainian drones overnight",
+      "title_ru": "Над Россией сбили 33 украинских дрона за ночь",
+      "topic": "Military",
+      "viral_score": 92,
+      "outlet_count": 4,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "top_story",
+      "recency_hours": 2,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 92/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 92/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Ukrainian drones attack enterprises in Dagestan and Bataysk",
+      "title_ru": "Беспилотники ВСУ атаковали предприятия в Дагестане и Батайске",
+      "topic": "Military",
+      "viral_score": 77,
+      "outlet_count": 4,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "featured",
+      "recency_hours": 3,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Mass food poisoning in Ulan-Ude: 145 people affected",
+      "title_ru": "Массовое отравление в Улан-Удэ: число пострадавших достигло 145",
+      "topic": "Incidents",
+      "viral_score": 77,
+      "outlet_count": 4,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "featured",
+      "recency_hours": 4,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "source_urls": [
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Trump says decision on meeting with Putin not yet made",
+      "title_ru": "Трамп заявил, что решение о встрече с Путиным пока не принято",
+      "topic": "Politics",
+      "viral_score": 69,
+      "outlet_count": 3,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "prominence": "featured",
+      "recency_hours": 5,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Russian forces liberate Poltavka and Chunishino settlements",
+      "title_ru": "ВС РФ освободили Полтавку и Чунишино",
+      "topic": "Military",
+      "viral_score": 69,
+      "outlet_count": 3,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti"
+      ],
+      "prominence": "featured",
+      "recency_hours": 6,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "NATO officers bunker destroyed in Kyiv region",
+      "title_ru": "В Киевской области уничтожили штабной бункер офицеров НАТО",
+      "topic": "Military",
+      "viral_score": 68,
+      "outlet_count": 1,
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "prominence": "top_story",
+      "recency_hours": 1,
+      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 68/100.",
+      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 68/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Russian banks begin raising deposit rates",
+      "title_ru": "Банки в России начали повышать ставки по вкладам",
+      "topic": "Economy",
+      "viral_score": 56,
+      "outlet_count": 2,
       "outlets": [
         "Rossiyskaya Gazeta",
         "Komsomolskaya Pravda"
       ],
-      "outlet_count": 2,
       "prominence": "featured",
-      "topic": "Politics",
-      "keywords": [
-        "Собянин",
-        "Москва",
-        "15 лет",
-        "мэр"
-      ],
-      "viral_score": 67.3,
-      "rank": 10,
-      "summary": "The number of people affected by mass poisoning in Ulan-Ude, Buryatia has risen to 121. Authorities have charged the production manager with responsibility for the incident. The investigation is ongoing to determine the exact cause of the poisoning, which affected diners at a local establishment.",
-      "summary_ru": "Число пострадавших от массового отравления в Улан-Удэ, Бурятия, возросло до 121 человека. Власти предъявили обвинение заведующей производством за ответственность за инцидент. Расследование продолжается для установления точной причины отравления, которое затронуло посетителей местного заведения.",
-      "why_trending": "This mass poisoning incident is trending due to the large number of victims and ongoing investigation. Three outlets covered the story, reflecting public concern about food safety.",
-      "why_trending_ru": "Этот инцидент массового отравления находится в тренде из-за большого числа пострадавших и продолжающегося расследования. Три издания осветили историю, отражая общественную обеспокоенность безопасностью пищевых продуктов.",
+      "recency_hours": 12,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 56/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 56/100.",
       "source_urls": [
-        "https://russian.rt.com/",
-        "https://tass.ru/",
-        "https://rg.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "incidents",
-        "food_safety",
-        "buryatia",
-        "public_health",
-        "investigation"
-      ],
-      "vk_engagement": "medium"
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
     },
     {
-      "title": "Mass poisoning in Ulan-Ude, Buryatia: 121 people affected",
-      "title_ru": "Массовое отравление в Улан-Удэ: число пострадавших возросло до 121",
+      "rank": 9,
+      "title": "Automatic driver's license renewal to end in Russia from 2026",
+      "title_ru": "Водительские права в России перестанут автоматически продлеваться с 2026 года",
+      "topic": "Society",
+      "viral_score": 54,
+      "outlet_count": 3,
       "outlets": [
-        "RT",
+        "RT Russian",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 7,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mass traffic accident in Uganda kills 63 people",
+      "title_ru": "Массовое ДТП в Уганде: погибли 63 человека",
+      "topic": "International",
+      "viral_score": 54,
+      "outlet_count": 3,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 10,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "source_urls": [
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Louvre robbery scandal: €88 million damage reported",
+      "title_ru": "Скандальное ограбление Лувра: ущерб может составить €88 млн",
+      "topic": "International",
+      "viral_score": 46,
+      "outlet_count": 2,
+      "outlets": [
+        "RT Russian",
+        "TASS"
+      ],
+      "prominence": "main",
+      "recency_hours": 8,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Search continues for Usольцевых family missing in Siberian taiga",
+      "title_ru": "Продолжаются поиски семьи Усольцевых, пропавшей в тайге",
+      "topic": "Incidents",
+      "viral_score": 46,
+      "outlet_count": 2,
+      "outlets": [
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 11,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "source_urls": [
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Zakharova dismisses rumors about Lavrov-Rubio meeting",
+      "title_ru": "Захарова опровергла слухи о встрече Лаврова и Рубио",
+      "topic": "Politics",
+      "viral_score": 41,
+      "outlet_count": 2,
+      "outlets": [
         "TASS",
         "Rossiyskaya Gazeta"
       ],
-      "outlet_count": 3,
       "prominence": "main",
-      "topic": "Incidents",
-      "keywords": [
-        "отравление",
-        "Бурятия",
-        "Улан-Удэ",
-        "121"
-      ],
-      "viral_score": 65.0,
-      "rank": 11,
-      "summary": "Russian hockey star Kirill Kaprizov achieved a rare milestone, setting a Minnesota Wild club record in the NHL. Kaprizov and teammate Yurov helped Minnesota defeat the Rangers in their latest match. The achievement highlights Kaprizov's exceptional performance this season and his importance to the team.",
-      "summary_ru": "Российская звезда хоккея Кирилл Капризов достиг редкой вехи, установив клубный рекорд «Миннесоты Уайлд» в НХЛ. Капризов и его товарищ по команде Юров помогли «Миннесоте» победить «Рейнджерс» в последнем матче. Достижение подчеркивает исключительную игру Капризова в этом сезоне и его важность для команды.",
-      "why_trending": "Kaprizov's record-breaking achievement is trending among sports fans as he continues to excel in the NHL. Three outlets covered this sports milestone, reflecting pride in Russian hockey talent abroad.",
-      "why_trending_ru": "Рекордное достижение Капризова находится в тренде среди спортивных болельщиков, так как он продолжает блистать в НХЛ. Три издания осветили эту спортивную веху, отражая гордость за российский хоккейный талант за рубежом.",
+      "recency_hours": 13,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
       "source_urls": [
-        "https://rg.ru/",
-        "https://www.kp.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "sports",
-        "hockey",
-        "nhl",
-        "kaprizov",
-        "achievement"
-      ],
-      "vk_engagement": "low"
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        }
+      ]
     },
     {
-      "title": "Sanae Takaichi becomes first woman Prime Minister of Japan",
-      "title_ru": "Премьер-министром Японии впервые стала женщина",
-      "outlets": [
-        "RIA",
-        "Komsomolskaya Pravda"
-      ],
-      "outlet_count": 2,
-      "prominence": "main",
+      "rank": 14,
+      "title": "Canada cancels contract to supply armored vehicles to Ukraine",
+      "title_ru": "Канада отменила контракт на поставку бронетранспортеров Киеву",
       "topic": "International",
-      "keywords": [
-        "Япония",
-        "премьер",
-        "женщина",
-        "Такаити"
-      ],
-      "viral_score": 60.3,
-      "rank": 12,
-      "summary": "Sergey Sobyanin marks 15 years as Moscow's mayor, a period that has seen significant transformation of the Russian capital. During his tenure, Moscow has undergone extensive urban renewal, infrastructure development, and modernization projects. The anniversary prompts reflection on the city's evolution under his leadership.",
-      "summary_ru": "Сергей Собянин отмечает 15 лет на посту мэра Москвы, период, который стал свидетелем значительной трансформации российской столицы. За время его руководства Москва прошла через масштабное городское обновление, развитие инфраструктуры и проекты модернизации. Годовщина побуждает к размышлениям об эволюции города под его руководством.",
-      "why_trending": "Sobyanin's 15-year anniversary is trending as it marks a significant milestone in Moscow's modern history. Two outlets featured this story, highlighting his long tenure and the capital's transformation.",
-      "why_trending_ru": "Пятнадцатилетие Собянина находится в тренде, так как отмечает значительную веху в современной истории Москвы. Два издания выделили эту историю, подчеркивая его долгое пребывание в должности и трансформацию столицы.",
-      "source_urls": [
-        "https://rg.ru/",
-        "https://www.kp.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "politics",
-        "moscow",
-        "anniversary",
-        "urban_development",
-        "governance"
-      ],
-      "vk_engagement": "low"
-    },
-    {
-      "title": "Nikita Mikhalkov celebrates 80th birthday",
-      "title_ru": "Никите Михалкову исполнилось 80 лет",
-      "outlets": [
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda"
-      ],
+      "viral_score": 41,
       "outlet_count": 2,
-      "prominence": "featured",
-      "topic": "Culture",
-      "keywords": [
-        "Михалков",
-        "80 лет",
-        "режиссер"
-      ],
-      "viral_score": 60.3,
-      "rank": 13,
-      "summary": "Sanae Takaichi has become Japan's first female Prime Minister, marking a historic moment for the country. Her appointment represents a breakthrough in Japanese politics, where women have been traditionally underrepresented in top leadership positions. The development has garnered international attention.",
-      "summary_ru": "Санаэ Такаити стала первой женщиной премьер-министром Японии, что стало историческим моментом для страны. Ее назначение представляет прорыв в японской политике, где женщины традиционно были недопредставлены на высших руководящих должностях. Событие привлекло международное внимание.",
-      "why_trending": "Japan's first female Prime Minister is trending as it represents a significant political milestone. Two outlets covered this international development, reflecting interest in gender equality and Asian politics.",
-      "why_trending_ru": "Первая женщина премьер-министр Японии находится в тренде, так как представляет значительную политическую веху. Два издания осветили это международное событие, отражая интерес к гендерному равенству и азиатской политике.",
-      "source_urls": [
-        "https://ria.ru/",
-        "https://www.kp.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "international",
-        "japan",
-        "politics",
-        "gender_equality",
-        "historic"
-      ],
-      "vk_engagement": "low"
-    },
-    {
-      "title": "Kirill Kaprizov sets Minnesota Wild club record in NHL",
-      "title_ru": "Кирилл Капризов отметился редким достижением в составе Миннесоты",
       "outlets": [
-        "Rossiyskaya Gazeta",
         "Komsomolskaya Pravda",
         "Lenta.ru"
       ],
-      "outlet_count": 3,
-      "prominence": "news_feed",
-      "topic": "Sports",
-      "keywords": [
-        "Капризов",
-        "НХЛ",
-        "Миннесота",
-        "рекорд"
-      ],
-      "viral_score": 58.0,
-      "rank": 14,
-      "summary": "Renowned filmmaker Nikita Mikhalkov celebrates his 80th birthday. The Oscar-winning director, actor, and public figure has made an indelible mark on Russian and world cinema. Special programs and retrospectives are being organized to honor his contributions to film and culture.",
-      "summary_ru": "Знаменитый кинорежиссер Никита Михалков отмечает свое 80-летие. Обладатель премии «Оскар», режиссер, актер и общественный деятель оставил неизгладимый след в российском и мировом кинематографе. Организуются специальные программы и ретроспективы в честь его вклада в кино и культуру.",
-      "why_trending": "Mikhalkov's 80th birthday is trending as it celebrates one of Russia's most prominent cultural figures. Two outlets featured this story, reflecting appreciation for his artistic legacy.",
-      "why_trending_ru": "Восьмидесятилетие Михалкова находится в тренде, так как отмечает одну из самых выдающихся культурных фигур России. Два издания выделили эту историю, отражая признание его художественного наследия.",
+      "prominence": "main",
+      "recency_hours": 14,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
       "source_urls": [
-        "https://rg.ru/",
-        "https://www.kp.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "culture",
-        "cinema",
-        "anniversary",
-        "mikhalkov",
-        "arts"
-      ],
-      "vk_engagement": "low"
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
     },
     {
-      "title": "Louvre museum robbed in Paris",
-      "title_ru": "Ограбление Лувра в Париже",
-      "outlets": [
-        "Rossiyskaya Gazeta",
-        "Lenta.ru"
-      ],
-      "outlet_count": 2,
-      "prominence": "news_feed",
-      "topic": "International",
-      "keywords": [
-        "Лувр",
-        "ограбление",
-        "Париж"
-      ],
-      "viral_score": 55.3,
       "rank": 15,
-      "summary": "The Louvre museum in Paris was robbed in a daring heist that lasted only seven minutes. Thieves managed to steal valuable jewelry from the famous museum. French authorities are investigating the incident, which has been described as a symbol of France's security challenges.",
-      "summary_ru": "Музей Лувр в Париже был ограблен в дерзком налете, который длился всего семь минут. Воры сумели похитить ценные ювелирные изделия из знаменитого музея. Французские власти расследуют инцидент, который был описан как символ проблем безопасности Франции.",
-      "why_trending": "The Louvre robbery is trending due to the audacity of the crime at one of the world's most famous museums. Two outlets covered this international incident, highlighting security concerns.",
-      "why_trending_ru": "Ограбление Лувра находится в тренде из-за дерзости преступления в одном из самых известных музеев мира. Два издания осветили этот международный инцидент, подчеркивая проблемы безопасности.",
+      "title": "FIS council votes against allowing Russian athletes to compete",
+      "title_ru": "Совет FIS проголосовал против допуска россиян к соревнованиям",
+      "topic": "Sports",
+      "viral_score": 38,
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "prominence": "main",
+      "recency_hours": 9,
+      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 38/100.",
+      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 38/100.",
       "source_urls": [
-        "https://rg.ru/",
-        "https://lenta.ru/"
-      ],
-      "date": "2025-10-21",
-      "tags": [
-        "international",
-        "crime",
-        "france",
-        "louvre",
-        "security"
-      ],
-      "vk_engagement": "low"
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        }
+      ]
     }
   ]
 }
