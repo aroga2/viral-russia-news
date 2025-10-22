@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "collection_date": "2025-10-22T09:32:53.804789+00:00",
-    "collection_date_display": "2025-10-22 09:32 UTC",
-    "generated_at": "2025-10-22T09:32:53.804858+00:00",
+    "collection_date": "2025-10-22T09:45:17.614499+00:00",
+    "collection_date_display": "2025-10-22 09:45 UTC",
+    "generated_at": "2025-10-22T09:45:17.614499+00:00",
     "collection_period": "daily_update",
     "total_stories": 15,
     "total_outlets": 6,
@@ -60,8 +60,16 @@
       ],
       "prominence": "top_story",
       "recency_hours": 1,
+      "date": "Oct 22, 08:45 UTC",
+      "vk_engagement": "High engagement",
       "summary": "This story was covered by 5 major Russian media outlets and achieved a viral score of 100/100.",
       "summary_ru": "Эта новость освещалась 5 крупными российскими СМИ и получила вирусный рейтинг 100/100.",
+      "why_trending": "Covered by 5 major outlets. Featured as top story. Breaking news.",
+      "why_trending_ru": "Освещается 5 крупными СМИ. Главная новость. Срочная новость.",
+      "tags": [
+        "security",
+        "defense"
+      ],
       "source_urls": [
         {
           "outlet": "TASS",
@@ -100,8 +108,16 @@
       ],
       "prominence": "top_story",
       "recency_hours": 2,
+      "date": "Oct 22, 07:45 UTC",
+      "vk_engagement": "High engagement",
       "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 92/100.",
       "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 92/100.",
+      "why_trending": "Covered by 4 major outlets. Featured as top story. Breaking news.",
+      "why_trending_ru": "Освещается 4 крупными СМИ. Главная новость. Срочная новость.",
+      "tags": [
+        "military",
+        "defense"
+      ],
       "source_urls": [
         {
           "outlet": "RT Russian",
@@ -136,8 +152,16 @@
       ],
       "prominence": "featured",
       "recency_hours": 3,
+      "date": "Oct 22, 06:45 UTC",
+      "vk_engagement": "Active discussion",
       "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
       "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "why_trending": "Covered by 4 major outlets. Prominently featured. Breaking news.",
+      "why_trending_ru": "Освещается 4 крупными СМИ. Важная новость. Срочная новость.",
+      "tags": [
+        "military",
+        "defense"
+      ],
       "source_urls": [
         {
           "outlet": "RIA Novosti",
@@ -172,8 +196,15 @@
       ],
       "prominence": "featured",
       "recency_hours": 4,
+      "date": "Oct 22, 05:45 UTC",
+      "vk_engagement": "Active discussion",
       "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
       "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "why_trending": "Covered by 4 major outlets. Prominently featured.",
+      "why_trending_ru": "Освещается 4 крупными СМИ. Важная новость.",
+      "tags": [
+        "incidents"
+      ],
       "source_urls": [
         {
           "outlet": "TASS",
@@ -207,8 +238,16 @@
       ],
       "prominence": "featured",
       "recency_hours": 5,
+      "date": "Oct 22, 04:45 UTC",
+      "vk_engagement": "Active discussion",
       "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
       "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "why_trending": "Prominently featured.",
+      "why_trending_ru": "Важная новость.",
+      "tags": [
+        "politics",
+        "politics"
+      ],
       "source_urls": [
         {
           "outlet": "RIA Novosti",
@@ -238,8 +277,16 @@
       ],
       "prominence": "featured",
       "recency_hours": 6,
+      "date": "Oct 22, 03:45 UTC",
+      "vk_engagement": "Active discussion",
       "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
       "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "why_trending": "Prominently featured.",
+      "why_trending_ru": "Важная новость.",
+      "tags": [
+        "military",
+        "defense"
+      ],
       "source_urls": [
         {
           "outlet": "RT Russian",
@@ -267,8 +314,16 @@
       ],
       "prominence": "top_story",
       "recency_hours": 1,
+      "date": "Oct 22, 08:45 UTC",
+      "vk_engagement": "High engagement",
       "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 68/100.",
       "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 68/100.",
+      "why_trending": "Featured as top story. Breaking news.",
+      "why_trending_ru": "Главная новость. Срочная новость.",
+      "tags": [
+        "military",
+        "defense"
+      ],
       "source_urls": [
         {
           "outlet": "RIA Novosti",
@@ -289,8 +344,15 @@
       ],
       "prominence": "featured",
       "recency_hours": 12,
+      "date": "Oct 21, 21:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 56/100.",
       "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 56/100.",
+      "why_trending": "Prominently featured.",
+      "why_trending_ru": "Важная новость.",
+      "tags": [
+        "economy"
+      ],
       "source_urls": [
         {
           "outlet": "Rossiyskaya Gazeta",
@@ -316,8 +378,15 @@
       ],
       "prominence": "main",
       "recency_hours": 7,
+      "date": "Oct 22, 02:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
       "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "society"
+      ],
       "source_urls": [
         {
           "outlet": "RT Russian",
@@ -347,8 +416,16 @@
       ],
       "prominence": "main",
       "recency_hours": 10,
+      "date": "Oct 21, 23:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
       "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "international",
+        "world"
+      ],
       "source_urls": [
         {
           "outlet": "Rossiyskaya Gazeta",
@@ -377,8 +454,16 @@
       ],
       "prominence": "main",
       "recency_hours": 8,
+      "date": "Oct 22, 01:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
       "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "international",
+        "world"
+      ],
       "source_urls": [
         {
           "outlet": "RT Russian",
@@ -403,8 +488,15 @@
       ],
       "prominence": "main",
       "recency_hours": 11,
+      "date": "Oct 21, 22:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
       "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "incidents"
+      ],
       "source_urls": [
         {
           "outlet": "Komsomolskaya Pravda",
@@ -429,8 +521,16 @@
       ],
       "prominence": "main",
       "recency_hours": 13,
+      "date": "Oct 21, 20:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
       "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "politics",
+        "politics"
+      ],
       "source_urls": [
         {
           "outlet": "TASS",
@@ -455,8 +555,16 @@
       ],
       "prominence": "main",
       "recency_hours": 14,
+      "date": "Oct 21, 19:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
       "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "international",
+        "world"
+      ],
       "source_urls": [
         {
           "outlet": "Komsomolskaya Pravda",
@@ -480,8 +588,15 @@
       ],
       "prominence": "main",
       "recency_hours": 9,
+      "date": "Oct 22, 00:45 UTC",
+      "vk_engagement": "Moderate activity",
       "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 38/100.",
       "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 38/100.",
+      "why_trending": ".",
+      "why_trending_ru": ".",
+      "tags": [
+        "sports"
+      ],
       "source_urls": [
         {
           "outlet": "RT Russian",
