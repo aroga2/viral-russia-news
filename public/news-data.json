@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "collection_date": "2025-10-22T09:45:17.614499+00:00",
-    "collection_date_display": "2025-10-22 09:45 UTC",
-    "generated_at": "2025-10-22T09:45:17.614499+00:00",
+    "collection_date": "2025-10-22T09:58:35.982680+00:00",
+    "collection_date_display": "2025-10-22 09:58 UTC",
+    "generated_at": "2025-10-22T09:58:35.982680+00:00",
     "collection_period": "daily_update",
     "total_stories": 15,
     "total_outlets": 6,
@@ -60,10 +60,10 @@
       ],
       "prominence": "top_story",
       "recency_hours": 1,
-      "date": "Oct 22, 08:45 UTC",
+      "date": "Oct 22, 08:58 UTC",
       "vk_engagement": "High engagement",
-      "summary": "This story was covered by 5 major Russian media outlets and achieved a viral score of 100/100.",
-      "summary_ru": "Эта новость освещалась 5 крупными российскими СМИ и получила вирусный рейтинг 100/100.",
+      "summary": "Russian security services detained a citizen accused of transmitting classified military information to Ukrainian intelligence services. The suspect allegedly provided coordinates of Russian military facilities.",
+      "summary_ru": "Сотрудники ФСБ задержали гражданина России по подозрению в передаче секретных военных данных украинским спецслужбам. Подозреваемый якобы предоставлял координаты российских военных объектов.",
       "why_trending": "Covered by 5 major outlets. Featured as top story. Breaking news.",
       "why_trending_ru": "Освещается 5 крупными СМИ. Главная новость. Срочная новость.",
       "tags": [
@@ -104,16 +104,60 @@
         "RT Russian",
         "TASS",
         "RIA Novosti",
-        "Komsomolskaya Pravda"
+        "Lenta.ru"
       ],
       "prominence": "top_story",
       "recency_hours": 2,
-      "date": "Oct 22, 07:45 UTC",
+      "date": "Oct 22, 07:58 UTC",
       "vk_engagement": "High engagement",
-      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 92/100.",
-      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 92/100.",
+      "summary": "Russian air defense systems intercepted and destroyed 33 Ukrainian drones during overnight attacks targeting multiple regions. The Ministry of Defense reported no casualties or significant damage.",
+      "summary_ru": "Российские системы ПВО перехватили и уничтожили 33 украинских беспилотника во время ночных атак на несколько регионов. Минобороны сообщило об отсутствии жертв и значительного ущерба.",
       "why_trending": "Covered by 4 major outlets. Featured as top story. Breaking news.",
       "why_trending_ru": "Освещается 4 крупными СМИ. Главная новость. Срочная новость.",
+      "tags": [
+        "military",
+        "defense"
+      ],
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Ukrainian drones attack enterprises in Dagestan and Bataysk",
+      "title_ru": "Украинские дроны атаковали предприятия в Дагестане и Батайске",
+      "topic": "Military",
+      "viral_score": 77,
+      "outlet_count": 4,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "featured",
+      "recency_hours": 3,
+      "date": "Oct 22, 06:58 UTC",
+      "vk_engagement": "Active discussion",
+      "summary": "Ukrainian UAVs targeted industrial facilities in Dagestan and Bataysk, causing fires at several sites. Emergency services are working to contain the blazes. No casualties reported.",
+      "summary_ru": "Украинские БПЛА нанесли удары по промышленным объектам в Дагестане и Батайске, вызвав пожары на нескольких площадках. Службы экстренного реагирования работают над локализацией возгораний. Жертв нет.",
+      "why_trending": "Covered by 4 major outlets. Prominently featured. Breaking news.",
+      "why_trending_ru": "Освещается 4 крупными СМИ. Важная новость. Срочная новость.",
       "tags": [
         "military",
         "defense"
@@ -138,53 +182,9 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Ukrainian drones attack enterprises in Dagestan and Bataysk",
-      "title_ru": "Беспилотники ВСУ атаковали предприятия в Дагестане и Батайске",
-      "topic": "Military",
-      "viral_score": 77,
-      "outlet_count": 4,
-      "outlets": [
-        "RIA Novosti",
-        "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda",
-        "Lenta.ru"
-      ],
-      "prominence": "featured",
-      "recency_hours": 3,
-      "date": "Oct 22, 06:45 UTC",
-      "vk_engagement": "Active discussion",
-      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
-      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
-      "why_trending": "Covered by 4 major outlets. Prominently featured. Breaking news.",
-      "why_trending_ru": "Освещается 4 крупными СМИ. Важная новость. Срочная новость.",
-      "tags": [
-        "military",
-        "defense"
-      ],
-      "source_urls": [
-        {
-          "outlet": "RIA Novosti",
-          "url": "https://ria.ru/"
-        },
-        {
-          "outlet": "Rossiyskaya Gazeta",
-          "url": "https://rg.ru/"
-        },
-        {
-          "outlet": "Komsomolskaya Pravda",
-          "url": "https://www.kp.ru/"
-        },
-        {
-          "outlet": "Lenta.ru",
-          "url": "https://lenta.ru/"
-        }
-      ]
-    },
-    {
       "rank": 4,
       "title": "Mass food poisoning in Ulan-Ude: 145 people affected",
-      "title_ru": "Массовое отравление в Улан-Удэ: число пострадавших достигло 145",
+      "title_ru": "Массовое отравление в Улан-Удэ: пострадали 145 человек",
       "topic": "Incidents",
       "viral_score": 77,
       "outlet_count": 4,
@@ -192,14 +192,14 @@
         "TASS",
         "RIA Novosti",
         "Rossiyskaya Gazeta",
-        "Komsomolskaya Pravda"
+        "Lenta.ru"
       ],
       "prominence": "featured",
       "recency_hours": 4,
-      "date": "Oct 22, 05:45 UTC",
+      "date": "Oct 22, 05:58 UTC",
       "vk_engagement": "Active discussion",
-      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
-      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "summary": "A mass food poisoning incident in Ulan-Ude has affected 145 people, including children. Health authorities are investigating the source of contamination at local food establishments.",
+      "summary_ru": "Массовое пищевое отравление в Улан-Удэ затронуло 145 человек, включая детей. Органы здравоохранения расследуют источник заражения в местных предприятиях общественного питания.",
       "why_trending": "Covered by 4 major outlets. Prominently featured.",
       "why_trending_ru": "Освещается 4 крупными СМИ. Важная новость.",
       "tags": [
@@ -219,29 +219,29 @@
           "url": "https://rg.ru/"
         },
         {
-          "outlet": "Komsomolskaya Pravda",
-          "url": "https://www.kp.ru/"
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
         }
       ]
     },
     {
       "rank": 5,
       "title": "Trump says decision on meeting with Putin not yet made",
-      "title_ru": "Трамп заявил, что решение о встрече с Путиным пока не принято",
+      "title_ru": "Трамп заявил, что решение о встрече с Путиным еще не принято",
       "topic": "Politics",
       "viral_score": 69,
       "outlet_count": 3,
       "outlets": [
-        "RIA Novosti",
-        "Rossiyskaya Gazeta",
-        "Lenta.ru"
+        "RT Russian",
+        "TASS",
+        "RIA Novosti"
       ],
       "prominence": "featured",
       "recency_hours": 5,
-      "date": "Oct 22, 04:45 UTC",
+      "date": "Oct 22, 04:58 UTC",
       "vk_engagement": "Active discussion",
-      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
-      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "summary": "Former US President Donald Trump stated that no final decision has been made regarding a potential meeting with Russian President Vladimir Putin, despite ongoing diplomatic discussions.",
+      "summary_ru": "Бывший президент США Дональд Трамп заявил, что окончательное решение о возможной встрече с президентом России Владимиром Путиным еще не принято, несмотря на продолжающиеся дипломатические переговоры.",
       "why_trending": "Prominently featured.",
       "why_trending_ru": "Важная новость.",
       "tags": [
@@ -250,23 +250,23 @@
       ],
       "source_urls": [
         {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
           "outlet": "RIA Novosti",
           "url": "https://ria.ru/"
-        },
-        {
-          "outlet": "Rossiyskaya Gazeta",
-          "url": "https://rg.ru/"
-        },
-        {
-          "outlet": "Lenta.ru",
-          "url": "https://lenta.ru/"
         }
       ]
     },
     {
       "rank": 6,
       "title": "Russian forces liberate Poltavka and Chunishino settlements",
-      "title_ru": "ВС РФ освободили Полтавку и Чунишино",
+      "title_ru": "Войска РФ освободили Полтавку и Чунишино",
       "topic": "Military",
       "viral_score": 69,
       "outlet_count": 3,
@@ -277,10 +277,10 @@
       ],
       "prominence": "featured",
       "recency_hours": 6,
-      "date": "Oct 22, 03:45 UTC",
+      "date": "Oct 22, 03:58 UTC",
       "vk_engagement": "Active discussion",
-      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
-      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "summary": "Russian military forces have liberated the settlements of Poltavka and Chunishino in the special military operation zone, according to the Ministry of Defense.",
+      "summary_ru": "Российские военные освободили населенные пункты Полтавка и Чунишино в зоне проведения специальной военной операции, сообщает Министерство обороны.",
       "why_trending": "Prominently featured.",
       "why_trending_ru": "Важная новость.",
       "tags": [
@@ -314,10 +314,10 @@
       ],
       "prominence": "top_story",
       "recency_hours": 1,
-      "date": "Oct 22, 08:45 UTC",
+      "date": "Oct 22, 08:58 UTC",
       "vk_engagement": "High engagement",
-      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 68/100.",
-      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 68/100.",
+      "summary": "Russian forces reportedly destroyed a command bunker housing NATO military advisors in the Kyiv region. The strike allegedly targeted a coordination center for Western military assistance.",
+      "summary_ru": "Российские силы якобы уничтожили командный бункер с военными советниками НАТО в Киевской области. Удар предположительно был нанесен по координационному центру западной военной помощи.",
       "why_trending": "Featured as top story. Breaking news.",
       "why_trending_ru": "Главная новость. Срочная новость.",
       "tags": [
@@ -344,10 +344,10 @@
       ],
       "prominence": "featured",
       "recency_hours": 12,
-      "date": "Oct 21, 21:45 UTC",
+      "date": "Oct 21, 21:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 56/100.",
-      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 56/100.",
+      "summary": "Major Russian banks have started increasing interest rates on deposits following the Central Bank's key rate adjustment. Savers can now earn up to 21% annually on term deposits.",
+      "summary_ru": "Крупные российские банки начали повышать процентные ставки по вкладам после корректировки ключевой ставки Центробанка. Вкладчики теперь могут получать до 21% годовых по срочным депозитам.",
       "why_trending": "Prominently featured.",
       "why_trending_ru": "Важная новость.",
       "tags": [
@@ -378,10 +378,10 @@
       ],
       "prominence": "main",
       "recency_hours": 7,
-      "date": "Oct 22, 02:45 UTC",
+      "date": "Oct 22, 02:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
-      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "summary": "Starting in 2026, Russian drivers will need to undergo medical examinations to renew their licenses. The automatic renewal system will be discontinued as part of road safety reforms.",
+      "summary_ru": "С 2026 года российским водителям потребуется проходить медицинское освидетельствование для продления прав. Система автоматического продления будет отменена в рамках реформ безопасности дорожного движения.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -416,10 +416,10 @@
       ],
       "prominence": "main",
       "recency_hours": 10,
-      "date": "Oct 21, 23:45 UTC",
+      "date": "Oct 21, 23:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
-      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "summary": "A devastating bus crash in Uganda has claimed 63 lives after a passenger bus collided with a fuel tanker. The accident caused a massive fire, making it one of the deadliest road incidents in the country.",
+      "summary_ru": "Разрушительная автокатастрофа в Уганде унесла жизни 63 человек после столкновения пассажирского автобуса с топливной цистерной. Авария вызвала масштабный пожар, став одним из самых смертоносных дорожных происшествий в стране.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -454,10 +454,10 @@
       ],
       "prominence": "main",
       "recency_hours": 8,
-      "date": "Oct 22, 01:45 UTC",
+      "date": "Oct 22, 01:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
-      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "summary": "French authorities report that the recent Louvre Museum theft may have caused damages totaling €88 million. Several valuable artifacts were stolen in what officials call a sophisticated operation.",
+      "summary_ru": "Французские власти сообщают, что недавнее ограбление музея Лувр могло нанести ущерб на сумму €88 млн. Несколько ценных артефактов были похищены в ходе того, что чиновники называют изощренной операцией.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -488,10 +488,10 @@
       ],
       "prominence": "main",
       "recency_hours": 11,
-      "date": "Oct 21, 22:45 UTC",
+      "date": "Oct 21, 22:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
-      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "summary": "Rescue teams continue searching for the Usoltsev family who went missing during a hiking trip in the Siberian taiga. Helicopters and search dogs are being deployed in the operation.",
+      "summary_ru": "Спасательные команды продолжают поиски семьи Усольцевых, пропавшей во время похода в сибирской тайге. В операции задействованы вертолеты и поисковые собаки.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -521,10 +521,10 @@
       ],
       "prominence": "main",
       "recency_hours": 13,
-      "date": "Oct 21, 20:45 UTC",
+      "date": "Oct 21, 20:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
-      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova denied reports of a planned meeting between Foreign Minister Sergey Lavrov and US Secretary of State Marco Rubio.",
+      "summary_ru": "Официальный представитель МИД России Мария Захарова опровергла сообщения о планируемой встрече министра иностранных дел Сергея Лаврова и госсекретаря США Марко Рубио.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -555,10 +555,10 @@
       ],
       "prominence": "main",
       "recency_hours": 14,
-      "date": "Oct 21, 19:45 UTC",
+      "date": "Oct 21, 19:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
-      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "summary": "The Canadian government has cancelled a major contract for supplying armored personnel carriers to Ukraine, citing budget constraints and domestic priorities.",
+      "summary_ru": "Правительство Канады отменило крупный контракт на поставку бронетранспортеров Украине, ссылаясь на бюджетные ограничения и внутренние приоритеты.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [
@@ -588,10 +588,10 @@
       ],
       "prominence": "main",
       "recency_hours": 9,
-      "date": "Oct 22, 00:45 UTC",
+      "date": "Oct 22, 00:58 UTC",
       "vk_engagement": "Moderate activity",
-      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 38/100.",
-      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 38/100.",
+      "summary": "The International Ski Federation (FIS) council voted to maintain the ban on Russian athletes competing in international skiing events, citing ongoing geopolitical tensions.",
+      "summary_ru": "Совет Международной федерации лыжного спорта (FIS) проголосовал за сохранение запрета на участие российских спортсменов в международных соревнованиях по лыжным видам спорта, ссылаясь на продолжающуюся геополитическую напряженность.",
       "why_trending": ".",
       "why_trending_ru": ".",
       "tags": [

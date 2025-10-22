@@ -97,8 +97,8 @@ for story in stories[:15]:
         "recency_hours": story['recency_hours'],
         "date": date_str,
         "vk_engagement": vk_engagement,
-        "summary": f"This story was covered by {story['outlet_count']} major Russian media outlets and achieved a viral score of {story['viral_score']}/100.",
-        "summary_ru": f"Эта новость освещалась {story['outlet_count']} крупными российскими СМИ и получила вирусный рейтинг {story['viral_score']}/100.",
+        "summary": story.get('excerpt', f"This story was covered by {story['outlet_count']} major Russian media outlets and achieved a viral score of {story['viral_score']}/100."),
+        "summary_ru": story.get('excerpt_ru', f"Эта новость освещалась {story['outlet_count']} крупными российскими СМИ и получила вирусный рейтинг {story['viral_score']}/100."),
         "why_trending": why_trending,
         "why_trending_ru": why_trending_ru,
         "tags": tags
@@ -135,4 +135,4 @@ print("Enhanced JSON generated successfully!")
 print(f"Total stories: {len(output['stories'])}")
 print(f"Collection date: {output['metadata']['collection_date_display']}")
 print(f"Files updated: news-data.json, viral_russia_news.json")
-print(f"All required fields included: date, vk_engagement, why_trending, tags")
+print(f"All required fields included: date, vk_engagement, why_trending, tags, excerpts")
