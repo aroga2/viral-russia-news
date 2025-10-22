@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "collection_date": "2025-10-22T07:09:41.769057+00:00",
+    "collection_date_display": "2025-10-22 07:09 UTC",
+    "total_stories": 15,
+    "sources": [
+      {
+        "name": "RT Russian",
+        "url": "https://russian.rt.com/",
+        "vk": "https://vk.com/rt_russian",
+        "followers": "1.5M"
+      },
+      {
+        "name": "TASS",
+        "url": "https://tass.ru/"
+      },
+      {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/",
+        "vk": "https://vk.com/ria",
+        "followers": "3.3M"
+      },
+      {
+        "name": "Rossiyskaya Gazeta",
+        "url": "https://rg.ru/"
+      },
+      {
+        "name": "Komsomolskaya Pravda",
+        "url": "https://www.kp.ru/"
+      },
+      {
+        "name": "Lenta.ru",
+        "url": "https://lenta.ru/"
+      }
+    ],
+    "scoring_methodology": {
+      "outlet_coverage": "0-40 points (8 points per outlet)",
+      "prominence": "0-30 points (top_story=30, featured=20, main=10)",
+      "recency": "0-30 points (based on hours since publication)",
+      "max_score": 100
+    }
+  },
+  "stories": [
+    {
+      "rank": 1,
+      "title": "FSB detains Russian for passing military data to Ukraine",
+      "title_ru": "ФСБ задержала россиянина за передачу данных Киеву",
+      "topic": "Security",
+      "viral_score": 100,
+      "outlet_count": 5,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "top_story",
+      "recency_hours": 1,
+      "summary": "This story was covered by 5 major Russian media outlets and achieved a viral score of 100/100.",
+      "summary_ru": "Эта новость освещалась 5 крупными российскими СМИ и получила вирусный рейтинг 100/100.",
+      "source_urls": [
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Russia shoots down 33 Ukrainian drones overnight",
+      "title_ru": "Над Россией сбили 33 украинских дрона за ночь",
+      "topic": "Military",
+      "viral_score": 92,
+      "outlet_count": 4,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "top_story",
+      "recency_hours": 2,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 92/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 92/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Ukrainian drones attack enterprises in Dagestan and Bataysk",
+      "title_ru": "Беспилотники ВСУ атаковали предприятия в Дагестане и Батайске",
+      "topic": "Military",
+      "viral_score": 77,
+      "outlet_count": 4,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "featured",
+      "recency_hours": 3,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Mass food poisoning in Ulan-Ude: 145 people affected",
+      "title_ru": "Массовое отравление в Улан-Удэ: число пострадавших достигло 145",
+      "topic": "Incidents",
+      "viral_score": 77,
+      "outlet_count": 4,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "featured",
+      "recency_hours": 4,
+      "summary": "This story was covered by 4 major Russian media outlets and achieved a viral score of 77/100.",
+      "summary_ru": "Эта новость освещалась 4 крупными российскими СМИ и получила вирусный рейтинг 77/100.",
+      "source_urls": [
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Trump says decision on meeting with Putin not yet made",
+      "title_ru": "Трамп заявил, что решение о встрече с Путиным пока не принято",
+      "topic": "Politics",
+      "viral_score": 69,
+      "outlet_count": 3,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "prominence": "featured",
+      "recency_hours": 5,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Russian forces liberate Poltavka and Chunishino settlements",
+      "title_ru": "ВС РФ освободили Полтавку и Чунишино",
+      "topic": "Military",
+      "viral_score": 69,
+      "outlet_count": 3,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti"
+      ],
+      "prominence": "featured",
+      "recency_hours": 6,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 69/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 69/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "NATO officers bunker destroyed in Kyiv region",
+      "title_ru": "В Киевской области уничтожили штабной бункер офицеров НАТО",
+      "topic": "Military",
+      "viral_score": 68,
+      "outlet_count": 1,
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "prominence": "top_story",
+      "recency_hours": 1,
+      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 68/100.",
+      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 68/100.",
+      "source_urls": [
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Russian banks begin raising deposit rates",
+      "title_ru": "Банки в России начали повышать ставки по вкладам",
+      "topic": "Economy",
+      "viral_score": 56,
+      "outlet_count": 2,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda"
+      ],
+      "prominence": "featured",
+      "recency_hours": 12,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 56/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 56/100.",
+      "source_urls": [
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Automatic driver's license renewal to end in Russia from 2026",
+      "title_ru": "Водительские права в России перестанут автоматически продлеваться с 2026 года",
+      "topic": "Society",
+      "viral_score": 54,
+      "outlet_count": 3,
+      "outlets": [
+        "RT Russian",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 7,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mass traffic accident in Uganda kills 63 people",
+      "title_ru": "Массовое ДТП в Уганде: погибли 63 человека",
+      "topic": "International",
+      "viral_score": 54,
+      "outlet_count": 3,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 10,
+      "summary": "This story was covered by 3 major Russian media outlets and achieved a viral score of 54/100.",
+      "summary_ru": "Эта новость освещалась 3 крупными российскими СМИ и получила вирусный рейтинг 54/100.",
+      "source_urls": [
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        },
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Louvre robbery scandal: €88 million damage reported",
+      "title_ru": "Скандальное ограбление Лувра: ущерб может составить €88 млн",
+      "topic": "International",
+      "viral_score": 46,
+      "outlet_count": 2,
+      "outlets": [
+        "RT Russian",
+        "TASS"
+      ],
+      "prominence": "main",
+      "recency_hours": 8,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        },
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Search continues for Usольцевых family missing in Siberian taiga",
+      "title_ru": "Продолжаются поиски семьи Усольцевых, пропавшей в тайге",
+      "topic": "Incidents",
+      "viral_score": 46,
+      "outlet_count": 2,
+      "outlets": [
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 11,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 46/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 46/100.",
+      "source_urls": [
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Zakharova dismisses rumors about Lavrov-Rubio meeting",
+      "title_ru": "Захарова опровергла слухи о встрече Лаврова и Рубио",
+      "topic": "Politics",
+      "viral_score": 41,
+      "outlet_count": 2,
+      "outlets": [
+        "TASS",
+        "Rossiyskaya Gazeta"
+      ],
+      "prominence": "main",
+      "recency_hours": 13,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "source_urls": [
+        {
+          "outlet": "TASS",
+          "url": "https://tass.ru/"
+        },
+        {
+          "outlet": "Rossiyskaya Gazeta",
+          "url": "https://rg.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Canada cancels contract to supply armored vehicles to Ukraine",
+      "title_ru": "Канада отменила контракт на поставку бронетранспортеров Киеву",
+      "topic": "International",
+      "viral_score": 41,
+      "outlet_count": 2,
+      "outlets": [
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "prominence": "main",
+      "recency_hours": 14,
+      "summary": "This story was covered by 2 major Russian media outlets and achieved a viral score of 41/100.",
+      "summary_ru": "Эта новость освещалась 2 крупными российскими СМИ и получила вирусный рейтинг 41/100.",
+      "source_urls": [
+        {
+          "outlet": "Komsomolskaya Pravda",
+          "url": "https://www.kp.ru/"
+        },
+        {
+          "outlet": "Lenta.ru",
+          "url": "https://lenta.ru/"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "FIS council votes against allowing Russian athletes to compete",
+      "title_ru": "Совет FIS проголосовал против допуска россиян к соревнованиям",
+      "topic": "Sports",
+      "viral_score": 38,
+      "outlet_count": 1,
+      "outlets": [
+        "RT Russian"
+      ],
+      "prominence": "main",
+      "recency_hours": 9,
+      "summary": "This story was covered by 1 major Russian media outlets and achieved a viral score of 38/100.",
+      "summary_ru": "Эта новость освещалась 1 крупными российскими СМИ и получила вирусный рейтинг 38/100.",
+      "source_urls": [
+        {
+          "outlet": "RT Russian",
+          "url": "https://russian.rt.com/"
+        }
+      ]
+    }
+  ]
+}
