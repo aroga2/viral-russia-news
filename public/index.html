@@ -315,7 +315,7 @@
     <script>
         async function loadData() {
             try {
-                const response = await fetch('news-data.json');
+                const response = await fetch('viral_russia_news.json');
                 const jsonData = await response.json();
                 const data = jsonData.metadata;
                 const stories = jsonData.stories;
