@@ -1,0 +1,49 @@
+name: Daily Viral Russia News Update
+
+on:
+  schedule:
+    # Run every day at 6:00 AM UTC (9:00 AM Moscow time)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install beautifulsoup4 requests
+      
+      - name: Run news collection script
+        run: |
+          python3 collect_and_generate.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet public/viral_russia_news.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add public/viral_russia_news.json
+          git commit -m "Auto-update: Viral Russia News - $(date +'%Y-%m-%d')"
+          git push
+      
+      - name: No changes detected
+        if: steps.check_changes.outputs.changed != 'true'
+        run: |
+          echo "No changes detected in viral_russia_news.json - skipping commit"
