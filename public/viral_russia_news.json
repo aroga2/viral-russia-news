@@ -1,17 +1,35 @@
 {
   "metadata": {
     "generated_at": "2025-10-25T03:13:54.745892",
-    "collection_date": "2025-10-25",
     "total_stories": 15,
-    "sources": [
-      "RT Russian (russian.rt.com)",
-      "TASS (tass.ru)",
-      "RIA Novosti (ria.ru)",
-      "Rossiyskaya Gazeta (rg.ru)",
-      "Komsomolskaya Pravda (kp.ru)",
-      "Lenta.ru (lenta.ru)"
-    ],
-    "methodology": "Stories ranked by viral score based on cross-outlet coverage, homepage prominence, recency, and VK engagement metrics"
+    "collection_period": "2025-10-25",
+    "total_outlets": 6,
+    "outlets": [
+      {
+        "name": "RT Russian",
+        "url": "https://russian.rt.com/"
+      },
+      {
+        "name": "TASS",
+        "url": "https://tass.ru/"
+      },
+      {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/"
+      },
+      {
+        "name": "Rossiyskaya Gazeta",
+        "url": "https://rg.ru/"
+      },
+      {
+        "name": "Komsomolskaya Pravda",
+        "url": "https://www.kp.ru/"
+      },
+      {
+        "name": "Lenta.ru",
+        "url": "https://lenta.ru/"
+      }
+    ]
   },
   "stories": [
     {
