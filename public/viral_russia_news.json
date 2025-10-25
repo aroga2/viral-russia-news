@@ -1,34 +1,538 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T06:14:27.246741",
-    "collection_period": "2025-10-25",
-    "total_outlets": 6,
-    "outlets": [
-      {
-        "name": "RT Russian",
-        "url": "https://russian.rt.com/"
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.ru/"
-      },
-      {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/"
-      },
-      {
-        "name": "Rossiyskaya Gazeta",
-        "url": "https://rg.ru/"
-      },
-      {
-        "name": "Komsomolskaya Pravda",
-        "url": "https://www.kp.ru/"
-      },
-      {
-        "name": "Lenta.ru",
-        "url": "https://lenta.ru/"
-      }
-    ]
+    "generated_at": "2025-10-25T03:13:54.745892",
+    "collection_date": "2025-10-25",
+    "total_stories": 15,
+    "sources": [
+      "RT Russian (russian.rt.com)",
+      "TASS (tass.ru)",
+      "RIA Novosti (ria.ru)",
+      "Rossiyskaya Gazeta (rg.ru)",
+      "Komsomolskaya Pravda (kp.ru)",
+      "Lenta.ru (lenta.ru)"
+    ],
+    "methodology": "Stories ranked by viral score based on cross-outlet coverage, homepage prominence, recency, and VK engagement metrics"
   },
-  "stories": []
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Russian Air Defense Shoots Down 121 Ukrainian Drones Overnight",
+      "title_ru": "Силы ПВО России за ночь сбили 121 украинский беспилотник",
+      "viral_score": 95,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 6,
+      "topic": "Military/Defense",
+      "vk_engagement": "Very High",
+      "prominence": "top_story",
+      "summary": "Russian air defense forces successfully intercepted and destroyed 121 Ukrainian unmanned aerial vehicles during overnight operations across multiple regions of Russia. The Ministry of Defense reported that the drones were targeting civilian infrastructure and military facilities in various regions. Moscow Mayor Sergei Sobyanin confirmed that seven drones heading toward the capital were destroyed. This represents one of the largest single-night interception operations since the beginning of the special military operation, demonstrating the effectiveness of Russian air defense systems.",
+      "summary_ru": "Силы противовоздушной обороны России успешно перехватили и уничтожили 121 украинский беспилотный летательный аппарат в ходе ночных операций в нескольких регионах России. Министерство обороны сообщило, что дроны были нацелены на гражданскую инфраструктуру и военные объекты в различных регионах. Мэр Москвы Сергей Собянин подтвердил, что семь дронов, направлявшихся к столице, были уничтожены. Это одна из крупнейших операций по перехвату за одну ночь с начала специальной военной операции, демонстрирующая эффективность российских систем ПВО.",
+      "why_trending": "This story is trending because it represents a major escalation in drone warfare and demonstrates Russia's air defense capabilities. The large number of intercepted drones (121) is unprecedented and indicates intensified Ukrainian attempts to strike Russian territory. The story has massive cross-platform coverage and high VK engagement.",
+      "why_trending_ru": "Эта история в тренде, потому что она представляет собой значительную эскалацию дронной войны и демонстрирует возможности российской ПВО. Большое количество перехваченных дронов (121) является беспрецедентным и указывает на усиление попыток Украины нанести удары по территории России. История имеет массовое освещение на всех платформах и высокую активность в VK.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Military",
+        "Defense",
+        "Air Defense",
+        "Drones",
+        "Ukraine Conflict",
+        "National Security"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Gas Explosion in Sochi Apartment Building Kills One, Injures Three",
+      "title_ru": "Взрыв газа в многоэтажке в Сочи: один погибший, трое пострадавших",
+      "viral_score": 92,
+      "outlets": [
+        "RT Russian",
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 5,
+      "topic": "Incidents",
+      "vk_engagement": "Very High",
+      "prominence": "top_story",
+      "summary": "A powerful gas explosion ripped through a residential apartment building in Sochi, killing one person and injuring three others, with a child trapped under the rubble. Local authorities declared a state of emergency in the area as rescue operations continued. Mayor Alexey Proshunin introduced a local emergency regime to coordinate rescue efforts. The explosion caused significant structural damage to the building, and emergency services are working to evacuate residents and search for potential additional victims. Investigations are underway to determine the exact cause of the gas leak.",
+      "summary_ru": "Мощный взрыв газа произошел в жилом многоквартирном доме в Сочи, в результате чего погиб один человек и пострадали трое, ребенок оказался под завалами. Местные власти объявили режим чрезвычайной ситуации в районе, пока продолжаются спасательные операции. Мэр Алексей Прошунин ввел режим локальной ЧС для координации спасательных работ. Взрыв причинил значительный ущерб конструкции здания, аварийные службы работают над эвакуацией жителей и поиском возможных дополнительных жертв. Ведется расследование для установления точной причины утечки газа.",
+      "why_trending": "This tragic incident is trending due to its severity and the emotional impact of having a child trapped in the rubble. Gas explosions in residential buildings are a recurring concern in Russia, making this story highly relevant to public safety discussions. The very high VK engagement reflects widespread public concern and sympathy.",
+      "why_trending_ru": "Этот трагический инцидент в тренде из-за его серьезности и эмоционального воздействия, связанного с ребенком, оказавшимся под завалами. Взрывы газа в жилых домах являются повторяющейся проблемой в России, что делает эту историю очень актуальной для обсуждений общественной безопасности. Очень высокая активность в VK отражает широкую обеспокоенность и сочувствие общественности.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Incidents",
+        "Gas Explosion",
+        "Sochi",
+        "Emergency",
+        "Public Safety",
+        "Rescue Operations"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump Says He Believes Russia Wants to Resolve Ukraine Conflict",
+      "title_ru": "Трамп заявил, что верит в желание России достичь мира на Украине",
+      "viral_score": 88,
+      "outlets": [
+        "RT Russian",
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 5,
+      "topic": "International Relations",
+      "vk_engagement": "High",
+      "prominence": "featured",
+      "summary": "Former US President Donald Trump made a significant statement expressing his belief that Russia is genuinely interested in resolving the Ukraine conflict peacefully. Trump acknowledged an uncomfortable truth for Europe and Ukrainian President Zelensky, suggesting that diplomatic solutions should be prioritized. His comments come amid ongoing discussions about potential peace negotiations and reflect his long-standing position on seeking dialogue with Russia. The statement has generated considerable debate about the future of US-Russia relations and the potential for peace talks.",
+      "summary_ru": "Бывший президент США Дональд Трамп сделал значительное заявление, выразив свою веру в то, что Россия искренне заинтересована в мирном разрешении украинского конфликта. Трамп признал неудобную для Европы и президента Украины Зеленского правду, предполагая, что дипломатические решения должны быть приоритетными. Его комментарии появились на фоне продолжающихся дискуссий о возможных мирных переговорах и отражают его давнюю позицию о необходимости диалога с Россией. Заявление вызвало значительные дебаты о будущем российско-американских отношений и потенциале мирных переговоров.",
+      "why_trending": "Trump's statement is trending because it represents a potential shift in US policy toward Russia and Ukraine. His willingness to acknowledge Russia's interest in peace negotiations contradicts the prevailing Western narrative and could signal changes in diplomatic approaches if he returns to power.",
+      "why_trending_ru": "Заявление Трампа в тренде, потому что оно представляет собой потенциальный сдвиг в политике США в отношении России и Украины. Его готовность признать интерес России к мирным переговорам противоречит преобладающему западному нарративу и может сигнализировать об изменениях в дипломатических подходах, если он вернется к власти.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "International Relations",
+        "Trump",
+        "Russia",
+        "Ukraine",
+        "Peace Negotiations",
+        "US Politics"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Dropper Who Cashed Out 15 Million Rubles from Singer Dolina Dies",
+      "title_ru": "Умер дроппер, обналичивший 15 млн рублей певицы Долиной",
+      "viral_score": 85,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 4,
+      "topic": "Crime",
+      "vk_engagement": "Moderate to High",
+      "prominence": "featured",
+      "summary": "The individual who served as a \"dropper\" (money mule) in a major fraud scheme targeting famous Russian singer Larisa Dolina has died. The dropper was responsible for withdrawing 15 million rubles that were fraudulently obtained from the singer's accounts. This high-profile case had attracted significant media attention due to the celebrity victim and the large sum involved. The death of this key figure in the criminal operation raises questions about the ongoing investigation and whether other perpetrators will be brought to justice. Authorities continue to investigate the broader fraud network.",
+      "summary_ru": "Человек, который выступал в роли «дроппера» (курьера для обналичивания денег) в крупной мошеннической схеме, направленной против известной российской певицы Ларисы Долиной, умер. Дроппер был ответственен за снятие 15 миллионов рублей, которые были мошенническим путем получены со счетов певицы. Это громкое дело привлекло значительное внимание СМИ из-за знаменитой жертвы и крупной суммы. Смерть этой ключевой фигуры в преступной операции поднимает вопросы о продолжающемся расследовании и о том, будут ли другие преступники привлечены к ответственности. Власти продолжают расследование более широкой мошеннической сети.",
+      "why_trending": "This story is trending because it involves a celebrity victim and a large sum of money, making it a high-profile crime case. The unexpected death of the dropper adds a dramatic twist to the ongoing investigation and raises public curiosity about the case's resolution.",
+      "why_trending_ru": "Эта история в тренде, потому что она затрагивает знаменитую жертву и крупную сумму денег, что делает ее громким уголовным делом. Неожиданная смерть дроппера добавляет драматический поворот в продолжающееся расследование и вызывает общественное любопытство о разрешении дела.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Crime",
+        "Fraud",
+        "Celebrity",
+        "Investigation",
+        "Money Laundering",
+        "Cybercrime"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Kyiv Prepared Series of Terror Attacks on Crimean Bridge and Other Facilities",
+      "title_ru": "Мирошник: Киев готовил серию терактов на Крымском мосту и других объектах",
+      "viral_score": 83,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 3,
+      "topic": "Security/Terrorism",
+      "vk_engagement": "High",
+      "prominence": "top_story",
+      "summary": "Russian official Rodion Miroshnik revealed that Ukrainian authorities were planning a series of terrorist attacks targeting the Crimean Bridge, railway infrastructure, and other strategic facilities in Russia. According to Miroshnik, intelligence services uncovered detailed plans for coordinated strikes aimed at disrupting critical infrastructure. The Crimean Bridge, which connects mainland Russia to Crimea, has been a frequent target of Ukrainian attacks and remains a symbol of Russian sovereignty over the peninsula. This revelation highlights ongoing security concerns and the need for enhanced protective measures around strategic infrastructure.",
+      "summary_ru": "Российский чиновник Родион Мирошник раскрыл, что украинские власти планировали серию террористических атак, нацеленных на Крымский мост, железнодорожную инфраструктуру и другие стратегические объекты в России. По словам Мирошника, спецслужбы обнаружили детальные планы координированных ударов, направленных на нарушение работы критической инфраструктуры. Крымский мост, соединяющий материковую Россию с Крымом, часто становится целью украинских атак и остается символом российского суверенитета над полуостровом. Это откровение подчеркивает продолжающиеся проблемы безопасности и необходимость усиленных защитных мер вокруг стратегической инфраструктуры.",
+      "why_trending": "This story is trending because it involves threats to critical Russian infrastructure, particularly the symbolically important Crimean Bridge. The revelation of planned terror attacks heightens security concerns and reinforces narratives about Ukrainian aggression against Russian territory.",
+      "why_trending_ru": "Эта история в тренде, потому что она касается угроз критической российской инфраструктуре, особенно символически важному Крымскому мосту. Раскрытие планируемых террористических атак усиливает обеспокоенность безопасностью и укрепляет нарративы об украинской агрессии против российской территории.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Security",
+        "Terrorism",
+        "Crimean Bridge",
+        "Infrastructure",
+        "Intelligence",
+        "Ukraine Conflict"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "USA Refuses to Support Ukraine's Anti-Russian Statement at UN",
+      "title_ru": "США отказались поддержать антироссийское заявление Украины в ООН",
+      "viral_score": 80,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta",
+        "Lenta.ru"
+      ],
+      "outlet_count": 3,
+      "topic": "International Relations",
+      "vk_engagement": "High",
+      "prominence": "featured",
+      "summary": "In a significant diplomatic development, the United States declined to support Ukraine's anti-Russian statement at the United Nations, marking a potential shift in American policy. This decision has raised questions about the future of Western unity in supporting Ukraine and suggests possible changes in the US approach to the conflict. The refusal to endorse the statement indicates growing complexity in international diplomatic positions and may reflect evolving American interests regarding the Ukraine situation. European countries are now questioning which nations will join Ukraine's statement without US backing.",
+      "summary_ru": "В значительном дипломатическом развитии Соединенные Штаты отказались поддержать антироссийское заявление Украины в Организации Объединенных Наций, что знаменует потенциальный сдвиг в американской политике. Это решение вызвало вопросы о будущем западного единства в поддержке Украины и предполагает возможные изменения в подходе США к конфликту. Отказ поддержать заявление указывает на растущую сложность международных дипломатических позиций и может отражать эволюционирующие американские интересы в отношении украинской ситуации. Европейские страны теперь задаются вопросом, какие государства присоединятся к заявлению Украины без поддержки США.",
+      "why_trending": "This story is trending because it represents a potential fracture in Western unity regarding Ukraine and could signal a major shift in US foreign policy. The refusal to support Ukraine at the UN is seen as a significant diplomatic move with far-reaching implications.",
+      "why_trending_ru": "Эта история в тренде, потому что она представляет собой потенциальный раскол в западном единстве относительно Украины и может сигнализировать о крупном сдвиге во внешней политике США. Отказ поддержать Украину в ООН рассматривается как значительный дипломатический шаг с далеко идущими последствиями.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://rg.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "International Relations",
+        "United Nations",
+        "USA",
+        "Ukraine",
+        "Diplomacy",
+        "Foreign Policy"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Alaoudinov: More Ukrainian Soldiers Will Defect to Russia",
+      "title_ru": "Алаудинов: Все больше бойцов ВСУ будут переходить на сторону России",
+      "viral_score": 78,
+      "outlets": [
+        "TASS",
+        "RIA Novosti",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 3,
+      "topic": "Military",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "Chechen commander Apti Alaoudinov stated that an increasing number of Ukrainian Armed Forces soldiers will defect to the Russian side as the conflict continues. According to Alaoudinov, many Ukrainian soldiers are disillusioned with their leadership and the direction of the war, leading them to seek alternatives. This claim reflects Russian narratives about declining morale among Ukrainian forces and growing dissatisfaction with the Kyiv government. The statement is part of ongoing information warfare and attempts to undermine Ukrainian military cohesion and public support for the war effort.",
+      "summary_ru": "Чеченский командир Апти Алаудинов заявил, что все большее число солдат Вооруженных сил Украины будет переходить на российскую сторону по мере продолжения конфликта. По словам Алаудинова, многие украинские солдаты разочарованы своим руководством и направлением войны, что заставляет их искать альтернативы. Это заявление отражает российские нарративы о снижении морального духа среди украинских сил и растущем недовольстве киевским правительством. Заявление является частью продолжающейся информационной войны и попыток подорвать военную сплоченность Украины и общественную поддержку военных усилий.",
+      "why_trending": "This story is trending because it touches on the sensitive issue of military morale and defections, which are crucial factors in prolonged conflicts. Claims about Ukrainian soldiers defecting to Russia serve Russian information warfare objectives and generate debate about the true state of Ukrainian military cohesion.",
+      "why_trending_ru": "Эта история в тренде, потому что она затрагивает чувствительный вопрос военного морального духа и перебежчиков, которые являются решающими факторами в затяжных конфликтах. Заявления о переходе украинских солдат на сторону России служат целям российской информационной войны и вызывают дебаты о реальном состоянии украинской военной сплоченности.",
+      "source_urls": [
+        "https://tass.ru/",
+        "https://ria.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Military",
+        "Ukraine Conflict",
+        "Defections",
+        "Morale",
+        "Information Warfare",
+        "Armed Forces"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "EU Losses from Confiscating Russian Assets Revealed",
+      "title_ru": "Раскрыты потери ЕС в случае конфискации российских активов",
+      "viral_score": 75,
+      "outlets": [
+        "RIA Novosti",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 3,
+      "topic": "Economy/International",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "Analysis reveals that the European Union would suffer significant economic losses if it proceeds with confiscating frozen Russian assets. Experts warn that such action could trigger retaliatory measures from Russia, undermine international financial system stability, and damage the EU's reputation as a reliable jurisdiction for foreign investments. Belgium has reportedly distanced itself from the confiscation plan, describing it as \"economic suicide.\" The revelation highlights the complex economic interdependencies between Russia and Europe and the potential costs of escalating financial warfare beyond sanctions.",
+      "summary_ru": "Анализ показывает, что Европейский союз понесет значительные экономические потери, если продолжит конфискацию замороженных российских активов. Эксперты предупреждают, что такие действия могут спровоцировать ответные меры со стороны России, подорвать стабильность международной финансовой системы и нанести ущерб репутации ЕС как надежной юрисдикции для иностранных инвестиций. Бельгия, как сообщается, дистанцировалась от плана конфискации, назвав его «экономическим самоубийством». Откровение подчеркивает сложные экономические взаимозависимости между Россией и Европой и потенциальные издержки эскалации финансовой войны за пределы санкций.",
+      "why_trending": "This story is trending because it addresses the controversial topic of asset confiscation and its economic consequences. The revelation that EU countries like Belgium are backing away from confiscation plans due to potential losses adds credibility to Russian warnings about the risks of such actions.",
+      "why_trending_ru": "Эта история в тренде, потому что она затрагивает спорную тему конфискации активов и ее экономических последствий. Откровение о том, что страны ЕС, такие как Бельгия, отказываются от планов конфискации из-за потенциальных потерь, добавляет достоверности российским предупреждениям о рисках таких действий.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Economy",
+        "European Union",
+        "Sanctions",
+        "Assets",
+        "Financial Warfare",
+        "International Finance"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Central Bank Lowers Key Rate for Fourth Consecutive Time",
+      "title_ru": "Центробанк в четвертый раз подряд снизил ключевую ставку",
+      "viral_score": 72,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda",
+        "Lenta.ru"
+      ],
+      "outlet_count": 3,
+      "topic": "Economy/Finance",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "The Russian Central Bank has lowered the key interest rate for the fourth consecutive time, signaling confidence in economic stability and inflation control. However, the bank cautiously reduced the rate by only half a percentage point, explaining that a more aggressive reduction could trigger an \"avalanche process\" of economic instability. Central Bank Governor Elvira Nabiullina explained the risks of reducing the rate too quickly, emphasizing the need for a balanced approach. This decision will impact borrowing costs, mortgage rates, and overall economic activity in Russia, with experts debating the optimal pace of rate reductions.",
+      "summary_ru": "Центральный банк России снизил ключевую процентную ставку в четвертый раз подряд, сигнализируя о уверенности в экономической стабильности и контроле инфляции. Однако банк осторожно снизил ставку всего на полпроцента, объясняя, что более агрессивное снижение может спровоцировать «лавинообразный процесс» экономической нестабильности. Председатель ЦБ Эльвира Набиуллина объяснила риски слишком быстрого снижения ставки, подчеркивая необходимость сбалансированного подхода. Это решение повлияет на стоимость заимствований, ипотечные ставки и общую экономическую активность в России, при этом эксперты обсуждают оптимальный темп снижения ставок.",
+      "why_trending": "This story is trending because interest rate decisions directly affect millions of Russians through mortgage rates, loans, and savings. The Central Bank's cautious approach and warnings about potential risks make this a significant economic policy story that impacts everyday financial decisions.",
+      "why_trending_ru": "Эта история в тренде, потому что решения по процентной ставке напрямую затрагивают миллионы россиян через ипотечные ставки, кредиты и сбережения. Осторожный подход Центрального банка и предупреждения о потенциальных рисках делают это значительной историей экономической политики, влияющей на повседневные финансовые решения.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://www.kp.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Economy",
+        "Central Bank",
+        "Interest Rates",
+        "Finance",
+        "Monetary Policy",
+        "Inflation"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Pokrovsk Cut Off: Ukrainian Forces Unable to Access Key Donbass City",
+      "title_ru": "Покровск отрезан: украинская техника не может проехать в ключевой город Донбасса",
+      "viral_score": 70,
+      "outlets": [
+        "Komsomolskaya Pravda",
+        "RT Russian"
+      ],
+      "outlet_count": 2,
+      "topic": "Military Operations",
+      "vk_engagement": "High",
+      "prominence": "top_story",
+      "summary": "Russian forces have successfully cut off Ukrainian military access to Pokrovsk, a strategically important city in the Donbass region. War correspondent Alexander Kots from KP.RU reported from the front lines that Ukrainian military equipment can no longer reach the city, which has been the site of intense fighting. The encirclement of Pokrovsk represents a significant tactical victory for Russian forces and could lead to the liberation of the city. Control of Pokrovsk is crucial for both sides due to its strategic location and logistical importance in the Donbass theater of operations.",
+      "summary_ru": "Российские силы успешно отрезали украинский военный доступ к Покровску, стратегически важному городу в регионе Донбасса. Военный корреспондент Александр Коц из KP.RU сообщил с линии фронта, что украинская военная техника больше не может достичь города, который был местом интенсивных боев. Окружение Покровска представляет собой значительную тактическую победу для российских сил и может привести к освобождению города. Контроль над Покровском имеет решающее значение для обеих сторон из-за его стратегического расположения и логистической важности в донбасском театре военных действий.",
+      "why_trending": "This story is trending because Pokrovsk is a key strategic city in the Donbass region, and its potential capture would represent a major military achievement. The story features exclusive reporting from a war correspondent on the ground, adding authenticity and immediacy to the coverage.",
+      "why_trending_ru": "Эта история в тренде, потому что Покровск является ключевым стратегическим городом в регионе Донбасса, и его потенциальный захват представлял бы крупное военное достижение. История включает эксклюзивную репортаж военного корреспондента с места событий, добавляя аутентичность и актуальность освещению.",
+      "source_urls": [
+        "https://www.kp.ru/",
+        "https://russian.rt.com/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Military Operations",
+        "Pokrovsk",
+        "Donbass",
+        "Ukraine Conflict",
+        "Strategic Cities",
+        "Front Lines"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Putin's Special Representative Arrives in USA for Negotiations",
+      "title_ru": "Спецпредставитель Путина прибыл в США для переговоров",
+      "viral_score": 68,
+      "outlets": [
+        "RIA Novosti",
+        "Lenta.ru"
+      ],
+      "outlet_count": 2,
+      "topic": "International Relations",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "Russian President Vladimir Putin's special representative has arrived in the United States for high-level negotiations, marking a significant diplomatic engagement between the two countries. RFPI head Dmitry Dmitriev stated that Russia wants to resolve the Ukraine conflict as quickly as possible and will communicate to the US that Kyiv is disrupting necessary dialogue. The visit comes amid ongoing discussions about potential peace negotiations and represents a rare direct diplomatic contact between Russian and American officials at this level. The talks are expected to cover multiple bilateral issues beyond just the Ukraine situation.",
+      "summary_ru": "Специальный представитель президента России Владимира Путина прибыл в Соединенные Штаты для переговоров высокого уровня, что знаменует значительное дипломатическое взаимодействие между двумя странами. Глава РФПИ Кирилл Дмитриев заявил, что Россия хочет как можно скорее разрешить украинский конфликт и будет доносить до США, что Киев срывает необходимый диалог. Визит происходит на фоне продолжающихся дискуссий о возможных мирных переговорах и представляет собой редкий прямой дипломатический контакт между российскими и американскими чиновниками на этом уровне. Ожидается, что переговоры охватят множество двусторонних вопросов помимо украинской ситуации.",
+      "why_trending": "This story is trending because it represents a rare high-level diplomatic engagement between Russia and the United States at a time of heightened tensions. The visit signals potential openings for dialogue and negotiation on critical issues including the Ukraine conflict.",
+      "why_trending_ru": "Эта история в тренде, потому что она представляет собой редкое дипломатическое взаимодействие высокого уровня между Россией и Соединенными Штатами в период повышенной напряженности. Визит сигнализирует о потенциальных возможностях для диалога и переговоров по критическим вопросам, включая украинский конфликт.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://lenta.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "International Relations",
+        "Diplomacy",
+        "USA",
+        "Russia",
+        "Negotiations",
+        "Peace Talks"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Explosions Rock Oil Depot and Weapons Warehouses in Kirovograd Region",
+      "title_ru": "В Кировоградской области прогремели взрывы на нефтебазе и складах оружия ВСУ",
+      "viral_score": 65,
+      "outlets": [
+        "RIA Novosti"
+      ],
+      "outlet_count": 1,
+      "topic": "Military Operations",
+      "vk_engagement": "Moderate",
+      "prominence": "top_story",
+      "summary": "Powerful explosions were reported at an oil depot and Ukrainian Armed Forces weapons warehouses in the Kirovograd region of Ukraine. The strikes targeted critical military logistics infrastructure, including fuel storage facilities and ammunition depots. These attacks are part of ongoing Russian military operations aimed at degrading Ukrainian military capabilities by destroying supply chains and logistics hubs. The explosions were reportedly visible from significant distances and caused secondary detonations at the weapons storage facilities, indicating successful targeting of ammunition stockpiles.",
+      "summary_ru": "Мощные взрывы прогремели на нефтебазе и складах оружия Вооруженных сил Украины в Кировоградской области Украины. Удары были нацелены на критическую военную логистическую инфраструктуру, включая хранилища топлива и склады боеприпасов. Эти атаки являются частью продолжающихся российских военных операций, направленных на ослабление украинских военных возможностей путем уничтожения цепочек поставок и логистических узлов. Взрывы, как сообщается, были видны с значительных расстояний и вызвали вторичные детонации на объектах хранения оружия, что указывает на успешное поражение складов боеприпасов.",
+      "why_trending": "This story is trending because it represents successful strikes against Ukrainian military infrastructure, particularly fuel and ammunition storage facilities. Such attacks have direct impact on Ukrainian military capabilities and are significant tactical developments in the ongoing conflict.",
+      "why_trending_ru": "Эта история в тренде, потому что она представляет успешные удары по украинской военной инфраструктуре, особенно по хранилищам топлива и боеприпасов. Такие атаки имеют прямое влияние на украинские военные возможности и являются значительными тактическими событиями в продолжающемся конфликте.",
+      "source_urls": [
+        "https://ria.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Military Operations",
+        "Strikes",
+        "Infrastructure",
+        "Logistics",
+        "Ukraine Conflict",
+        "Ammunition"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Railway Infrastructure Damaged in Kharkiv Region",
+      "title_ru": "В Харьковской области повреждена железнодорожная инфраструктура",
+      "viral_score": 62,
+      "outlets": [
+        "RT Russian",
+        "RIA Novosti"
+      ],
+      "outlet_count": 2,
+      "topic": "Military/Infrastructure",
+      "vk_engagement": "Moderate",
+      "prominence": "news_feed",
+      "summary": "Railway infrastructure in the Kharkiv region has been damaged in recent strikes, disrupting transportation networks in eastern Ukraine. The attacks targeted rail lines used for military logistics and civilian transportation, potentially affecting the movement of troops, equipment, and supplies to the front lines. Railway infrastructure has been a frequent target in the conflict due to its critical role in military logistics. The damage to Kharkiv region railways could impact Ukrainian military operations in the eastern theater and complicate supply chain management for Ukrainian forces.",
+      "summary_ru": "Железнодорожная инфраструктура в Харьковской области была повреждена в результате недавних ударов, нарушив транспортные сети в восточной Украине. Атаки были нацелены на железнодорожные линии, используемые для военной логистики и гражданского транспорта, потенциально влияя на передвижение войск, техники и припасов на линию фронта. Железнодорожная инфраструктура часто становится целью в конфликте из-за ее критической роли в военной логистике. Повреждение харьковских железных дорог может повлиять на украинские военные операции на восточном театре и усложнить управление цепочками поставок для украинских сил.",
+      "why_trending": "This story is trending because railway infrastructure is critical for military logistics and civilian life. Damage to transportation networks in the Kharkiv region has strategic implications for Ukrainian military operations and affects civilian populations.",
+      "why_trending_ru": "Эта история в тренде, потому что железнодорожная инфраструктура критически важна для военной логистики и гражданской жизни. Повреждение транспортных сетей в Харьковской области имеет стратегические последствия для украинских военных операций и затрагивает гражданское население.",
+      "source_urls": [
+        "https://russian.rt.com/",
+        "https://ria.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Military",
+        "Infrastructure",
+        "Railways",
+        "Kharkiv",
+        "Logistics",
+        "Transportation"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Russia Condemns New EU Sanctions Package as Illegitimate",
+      "title_ru": "В МИД РФ осудили новый пакет санкций ЕС против России, назвав его нелегитимным",
+      "viral_score": 60,
+      "outlets": [
+        "Rossiyskaya Gazeta",
+        "Komsomolskaya Pravda"
+      ],
+      "outlet_count": 2,
+      "topic": "International Relations",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "The Russian Ministry of Foreign Affairs has strongly condemned the latest package of European Union sanctions against Russia, declaring them illegitimate and counterproductive. Russian officials argue that the sanctions violate international law and harm both Russian and European economies. President Vladimir Putin stated that the new sanctions represent an unfriendly step that will not benefit bilateral relations and will have consequences, though they will not cause significant damage to Russia. The condemnation reflects ongoing tensions between Russia and the West over economic warfare measures.",
+      "summary_ru": "Министерство иностранных дел России резко осудило последний пакет санкций Европейского союза против России, объявив их нелегитимными и контрпродуктивными. Российские чиновники утверждают, что санкции нарушают международное право и наносят вред как российской, так и европейской экономикам. Президент Владимир Путин заявил, что новые санкции представляют собой недружественный шаг, который не пойдет на пользу двусторонним отношениям и будет иметь последствия, хотя они не причинят значительного ущерба России. Осуждение отражает продолжающуюся напряженность между Россией и Западом по поводу мер экономической войны.",
+      "why_trending": "This story is trending because sanctions remain a central element of the geopolitical confrontation between Russia and the West. Each new sanctions package generates debate about effectiveness, legitimacy, and economic consequences for all parties involved.",
+      "why_trending_ru": "Эта история в тренде, потому что санкции остаются центральным элементом геополитической конфронтации между Россией и Западом. Каждый новый пакет санкций вызывает дебаты об эффективности, легитимности и экономических последствиях для всех вовлеченных сторон.",
+      "source_urls": [
+        "https://rg.ru/",
+        "https://www.kp.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "International Relations",
+        "Sanctions",
+        "European Union",
+        "Foreign Policy",
+        "Economic Warfare",
+        "Diplomacy"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Lobnensky Gang Leader Declared Internationally Wanted",
+      "title_ru": "Главаря банды \"Лобненские\" объявили в международный розыск",
+      "viral_score": 58,
+      "outlets": [
+        "RIA Novosti",
+        "Rossiyskaya Gazeta"
+      ],
+      "outlet_count": 2,
+      "topic": "Crime",
+      "vk_engagement": "Moderate",
+      "prominence": "featured",
+      "summary": "Russian authorities have placed the leader of the notorious Lobnensky organized crime group on the international wanted list in connection with a murder case and embezzlement involving funds intended for special military operation participants. The Lobnensky gang was one of the most violent criminal organizations in Russia during the 1990s, and its members committed dozens of murders in service of their leader. The case involves theft from military personnel, adding a particularly egregious dimension to the charges. International cooperation will be sought to apprehend the fugitive gang leader.",
+      "summary_ru": "Российские власти объявили лидера печально известной организованной преступной группировки \"Лобненские\" в международный розыск в связи с делом об убийстве и хищении средств, предназначенных для участников специальной военной операции. Банда \"Лобненские\" была одной из самых жестоких преступных организаций в России в 1990-е годы, и ее члены совершили десятки убийств на службе своего лидера. Дело включает кражу у военнослужащих, добавляя особенно вопиющее измерение к обвинениям. Будет запрошено международное сотрудничество для задержания беглого главаря банды.",
+      "why_trending": "This story is trending because it involves a notorious 1990s crime figure and includes the aggravating factor of stealing from military personnel serving in the special military operation. The combination of organized crime history and contemporary military theft makes this a compelling crime story.",
+      "why_trending_ru": "Эта история в тренде, потому что она затрагивает печально известную криминальную фигуру 1990-х годов и включает отягчающий фактор кражи у военнослужащих, служащих в специальной военной операции. Сочетание истории организованной преступности и современной военной кражи делает это захватывающей криминальной историей.",
+      "source_urls": [
+        "https://ria.ru/",
+        "https://rg.ru/"
+      ],
+      "date": "2025-10-25",
+      "tags": [
+        "Crime",
+        "Organized Crime",
+        "International Wanted",
+        "Investigation",
+        "1990s",
+        "Military Theft"
+      ]
+    }
+  ],
+  "statistics": {
+    "by_topic": {
+      "Military/Defense": 1,
+      "Incidents": 1,
+      "International Relations": 4,
+      "Crime": 2,
+      "Security/Terrorism": 1,
+      "Military": 1,
+      "Economy/International": 1,
+      "Economy/Finance": 1,
+      "Military Operations": 2,
+      "Military/Infrastructure": 1
+    },
+    "by_outlet_count": {
+      "6": 1,
+      "5": 2,
+      "4": 1,
+      "3": 5,
+      "2": 5,
+      "1": 1
+    },
+    "average_viral_score": 75.4
+  }
 }
